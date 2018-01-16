@@ -1,5 +1,6 @@
 ---
 layout: single
+last_modified_at: 2018-01-15T20:05:00-05:00
 
 toc: false
 
@@ -14,8 +15,9 @@ feature_row:
     Ph.D. Candidate<br>
     Department of Electrical and Computer Engineering<br>
     University of Toronto<br>
-    40 St. George Street<br>
-    Toronto, M5S 2E4, Ontario, Canada<br><br>
+    10 King’s College Road<br>
+    Toronto, Ontario M5S 3G4, Canada<br>
+    Email: lchen@ece.utoronto.ca<br>
     [Google Scholar](https://scholar.google.ca/citations?user=-2tpbVgAAAAJ&hl=zh-CN&citsig=AMstHGSNmAVMw8evMrAM4EHoX6svuzxzxQ){: .btn .btn--inverse .btn--small}
     "
 ---
@@ -28,12 +30,12 @@ feature_row:
 
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
-I work at [iQua](iqua.ece.toronto.edu) research group. My past research covers a broad area related to distributed systems, including
-* Big data analytics frameworks (*e.g.*, Apache Spark),
-* Resource scheduling in networked systems.
+I'm a member of the [iQua](iqua.ece.toronto.edu) research group. My past research covers a broad area related to cloud computing, datacenter networking and distributed systems, including
+* Optimization for big data analytics (*e.g.*, Apache Spark),
+* Resource allocation and scheduling in networked systems.
 
 I'm currently on the academic job market! <br> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-{: .notice--primary}
+{: .notice--success}
 
 <br>
 
@@ -44,6 +46,8 @@ I'm currently on the academic job market! <br> Please checkout my [CV](/assets/d
 |2018.01| One paper accepted to **IEEE Transactions on Parallel and Distributed Systems (TPDS)**.|
 |2018.01| One paper accepted to IEEE Transactions on Network Science and Engineering.|
 |2017.12| One co-authored paper accepted to **IEEE INFOCOM 2018**.|
+|2016.12| One paper accepted to **IEEE INFOCOM 2017**.|
+|2015.12| One paper accepted to **IEEE INFOCOM 2016**.|
 
 <br>
 
