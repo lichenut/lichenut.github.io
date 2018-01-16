@@ -34,7 +34,7 @@ I'm a member of the [iQua](iqua.ece.toronto.edu) research group. My past researc
 * Optimization for big data analytics (*e.g.*, Apache Spark),
 * Resource allocation and scheduling in networked systems.
 
-I'm currently on the academic job market! <br> Please checkout my [CV](/assets/docs/cv.pdf), [Research Statement](/assets/docs/research_statement_Li_Chen.pdf), and [Teaching Statement](/assets/docs/teaching_statement_Li_Chen.pdf).
+I'm currently on the academic job market! <br> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
 {: .notice--success}
 
 <br>
