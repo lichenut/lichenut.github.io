@@ -30,7 +30,7 @@ feature_row:
 
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
-I'm a member of the [iQua](iqua.ece.toronto.edu) research group. My past research covers a broad area related to cloud computing, datacenter networking and distributed systems, including
+I'm a member of the [iQua](http://iqua.ece.toronto.edu) research group. My past research covers a broad area related to cloud computing, datacenter networking and distributed systems, including
 * Optimization for big data analytics (*e.g.*, Apache Spark),
 * Resource allocation and scheduling in networked systems.
 

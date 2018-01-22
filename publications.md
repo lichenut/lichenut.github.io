@@ -12,7 +12,7 @@ layout: splash
 
 1. **Li Chen**, Baochun Li, Bo Li. "[Allocating Bandwidth in Datacenter Networks: A Survey](http://iqua.ece.toronto.edu/papers/lichen-survey14.pdf)," in *Journal of Computer Science and Technology*, Springer, vol. 29, no. 5, pp. 910-917, September 2014.
 
-1. **Li Chen**, Baochun Li, Bo Li. "[On Meeting Deadlines in Datacenter Networks](On Meeting Deadlines in Datacenter Networks)," in *Tsinghua Science and Technology*, vol. 18, no. 3, pp. 273-285, June 2013.
+1. **Li Chen**, Baochun Li, Bo Li. "[On Meeting Deadlines in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lichen-survey13.pdf)," in *Tsinghua Science and Technology*, vol. 18, no. 3, pp. 273-285, June 2013.
 
 
 ## Conference Papers
