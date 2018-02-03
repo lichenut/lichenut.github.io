@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2018-01-15T20:05:00-05:00
+last_modified_at: 2018-02-02T20:05:00-05:00
 
 toc: false
 
@@ -17,8 +17,9 @@ feature_row:
     University of Toronto<br>
     10 King’s College Road<br>
     Toronto, Ontario M5S 3G4, Canada<br>
-    Email: lchen@ece.utoronto.ca<br>
-    [Google Scholar](https://scholar.google.ca/citations?user=-2tpbVgAAAAJ&hl=zh-CN&citsig=AMstHGSNmAVMw8evMrAM4EHoX6svuzxzxQ){: .btn .btn--inverse .btn--small}
+    <br>
+    [Email Me](mailto:lchen@ece.utoronto.ca){: .btn .btn--inverse} &nbsp;
+    [Google Scholar](https://scholar.google.ca/citations?user=-2tpbVgAAAAJ&hl=zh-CN&citsig=AMstHGSNmAVMw8evMrAM4EHoX6svuzxzxQ){: .btn .btn--inverse}
     "
 ---
 
@@ -34,8 +35,18 @@ I'm a member of the [iQua](http://iqua.ece.toronto.edu) research group. My past 
 * Optimization for big data analytics (*e.g.*, Apache Spark),
 * Resource allocation and scheduling in networked systems.
 
-I'm currently on the academic job market! <br> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-{: .notice--success}
+**Awards**: 
+* [**Best Paper Candidate**](http://conferences.computer.org/IC2E/2016/program.htm) in IEEE IC2E 2016.
+* [**Best-in-Session Presentation**](http://infocom2016.ieee-infocom.org/program/main-technical-program) in IEEE INFOCOM 2016.
+
+{% capture notice-text %}
+Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
+{% endcapture %}
+
+<div class="notice--success">
+  <h4>I'm currently on the academic job market!</h4>
+  {{ notice-text | markdownify }}
+</div>
 
 <br>
 
