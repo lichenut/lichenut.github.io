@@ -17,6 +17,8 @@ layout: splash
 
 ## Conference Papers
 
+1. Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: Expediting Inter-Datacenter Coflows in Wide-Area Data Analytics," in the *Proceedings of the 2018 USENIX Annual Technical Conference (USENIX ATC 2018)*, Boston, Massachusetts, July 11-13, 2018 (acceptance ratio: 20%).
+
 1. Shuhao Liu, **Li Chen**, Baochun Li, Aiden Carnegie. "A Hierarchical Synchronous Parallel Model for Wide-Area Graph Analytics," in the *Proceedings of IEEE INFOCOM 2018*, Honolulu, HI, April 15-19, 2018 (acceptance ratio: 19%). 
 
 1. Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: a High-Performance Substrate for Inter-Datacenter Transfers in Wide-Area Data Analytics," in the *Proceedings of Symposium on Cloud Computing (SoCC) 2017* (Poster Session), Santa Clara, California, September 24-27, 2017.
