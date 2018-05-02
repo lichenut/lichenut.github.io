@@ -45,7 +45,7 @@ I'm looking for self-motivated Ph.D. students to work with me. Please email me y
 {% endcapture %}
 
 <div class="notice--success">
-  <h4>I will join [School of Computing and Informatics, University of Louisiana at Lafayette](https://computing.louisiana.edu) as a tenure-track Assistant Professor this fall. </h4>
+  <h4>I will join <a href="https://computing.louisiana.edu">School of Computing and Informatics, University of Louisiana at Lafayette</a> as a tenure-track Assistant Professor this fall. </h4>
   {{ notice-text | markdownify }}
 </div>
 
