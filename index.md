@@ -35,18 +35,17 @@ I'm a member of the [iQua](http://iqua.ece.toronto.edu) research group. My past 
 * Optimization for big data analytics (*e.g.*, Apache Spark),
 * Resource allocation and scheduling in networked systems.
 
-**Awards**: 
+**Awards** ([CV](/assets/docs/CV.pdf)): 
 * [**Best Paper Candidate**](http://conferences.computer.org/IC2E/2016/program.htm) in IEEE IC2E 2016.
 * [**Best-in-Session Presentation**](http://infocom2016.ieee-infocom.org/program/main-technical-program) in IEEE INFOCOM 2016.
 
-**CV**: [CV](/assets/docs/CV.pdf)
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-Please email me your CV if interested.
+I'm looking for self-motivated Ph.D. students to work with me. Please email me your CV if interested.
 {% endcapture %}
 
 <div class="notice--success">
-  <h4>I will join [School of Computing and Informatics, University of Louisiana at Lafayette](https://computing.louisiana.edu) as a tenure-track Assistant Professor this fall. I'm looking for self-motivated Ph.D. students to work with me. </h4>
+  <h4>I will join [School of Computing and Informatics, University of Louisiana at Lafayette](https://computing.louisiana.edu) as a tenure-track Assistant Professor this fall. </h4>
   {{ notice-text | markdownify }}
 </div>
 
