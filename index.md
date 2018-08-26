@@ -25,11 +25,24 @@ feature_row:
     "
 ---
 
+
 {% comment %}
 {% include feature_row id="intro" type="center" %}
 {% endcomment %}
 
 {% include feature_row id="feature_row" type="left" %}
+
+
+{% capture notice-text %}
+[comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
+Full financial support (RA/TA) will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
+{% endcapture %}
+
+<div class="notice--success">
+<h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019.
+ </h4>
+{{ notice-text | markdownify }}
+</div>
 
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
@@ -42,16 +55,6 @@ My research interests include big data analytics, machine learning systems, clou
 [comment]:* [**Best Paper Candidate**](http://conferences.computer.org/IC2E/2016/program.htm) in IEEE IC2E 2016.
 [comment]:* [**Best-in-Session Presentation**](http://infocom2016.ieee-infocom.org/program/main-technical-program) in IEEE INFOCOM 2016.
 
-{% capture notice-text %}
-[comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-Full financial support (RA/TA) will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
-{% endcapture %}
-
-<div class="notice--success">
-<h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019.
- </h4>
-{{ notice-text | markdownify }}
-</div>
 
 <br>
 
