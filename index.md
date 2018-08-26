@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2018-05-12T20:05:00-05:00
+last_modified_at: 2018-08-25T20:05:00-05:00
 
 toc: false
 
@@ -14,7 +14,7 @@ feature_row:
     excerpt: "
     Assistant Professor<br>
     Department of Computer Science<br>
-    School of Computing and Informatcis<br>
+    School of Computing and Informatics<br>
     University of Louisiana at Lafayette<br>
     James R. Oliver, Room 233<br>
     301 East Lewis Street<br>
@@ -34,7 +34,7 @@ feature_row:
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
 I'm a tenure-track Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at the University of Louisiana at Lafayette. 
-Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering at the University of Toronto in 2018. 
+Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering at the University of Toronto in 2018. I received my M.A.Sc degree in January 2015 from ECE at University of Toronto, and my Bachelor degree from the Department of Computer Science and Technology at Huazhong University of Science and Technology in June 2012. From September 2013 to May 2014, I've been in the Hong Kong Polytechnic University as a visiting student. 
 
 My research interests include big data analytics, machine learning systems, cloud computing, datacenter networking, resource allocation and scheduling in networked systems.
 
@@ -59,7 +59,7 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 
 | Time  | Event |
 |-------|-------|
-|2018.08| Li joins Department of Computer Science at UL, teaching CMPS 340 - Design and Analysis of Algorithms.|
+|2018.08| Li joined Department of Computer Science at UL, teaching CMPS 340 - Design and Analysis of Algorithms.|
 |2018.05| One co-authored paper accepted to **ICML 2018**.|
 |2018.04| One co-authored paper accepted to **USENIX ATC 2018**.|
 |2018.01| One paper accepted to **IEEE Transactions on Parallel and Distributed Systems (TPDS)**.|
