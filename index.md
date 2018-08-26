@@ -41,6 +41,7 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 <div class="notice--success">
 <h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019.
  </h4>
+<br>
 {{ notice-text | markdownify }}
 </div>
 
