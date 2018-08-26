@@ -88,9 +88,9 @@ analytics:
 author:
   name             : "Li Chen"
   avatar           : "/assets/images/avatar.jpeg"
-  bio              : "Ph.D. Candidate @ UofT."
-  location         : "Toronto"
-  email            : "lchen@ece.toronto.edu"
+  bio              : "Assistant Professor @ UL."
+  location         : "Lafayette, LA"
+  email            : "li.chen@louisiana.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
