@@ -12,12 +12,14 @@ feature_row:
     alt: "Li Chen"
     title: "Li Chen"
     excerpt: "
-    Ph.D. Candidate<br>
-    Department of Electrical and Computer Engineering<br>
-    University of Toronto<br>
-    10 King’s College Road<br>
-    Toronto, Ontario M5S 3G4, Canada<br>
-    <br>
+    Assistant Professor<br>
+    Department of Computer Science<br>
+    School of Computing and Informatcis<br>
+    University of Louisiana at Lafayette<br>
+    James R. Oliver, Room 233<br>
+    301 East Lewis Street<br>
+    Lafayette, LA 70504<br>
+    Phone: (337) 482-6774 <br>
     [Email Me](mailto:li.chen@louisiana.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.ca/citations?user=-2tpbVgAAAAJ&hl=zh-CN&citsig=AMstHGSNmAVMw8evMrAM4EHoX6svuzxzxQ){: .btn .btn--inverse}
     "
@@ -31,8 +33,10 @@ feature_row:
 
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
-I'm an Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at University of Louisiana at Lafayette. 
-Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering, University of Toronto. My research interests include big data analytics, machine learning systems, cloud computing, datacenter networking, resource allocation and scheduling in networked systems.
+I'm a tenure-track Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at University of Louisiana at Lafayette. 
+Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering, University of Toronto， in 2018. 
+
+My research interests include big data analytics, machine learning systems, cloud computing, datacenter networking, resource allocation and scheduling in networked systems.
 
 [comment]:**Awards** ([CV](/assets/docs/CV.pdf)): 
 [comment]:* [**Best Paper Candidate**](http://conferences.computer.org/IC2E/2016/program.htm) in IEEE IC2E 2016.
@@ -40,12 +44,13 @@ Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.to
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
+I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
 {% endcapture %}
 
-<div class="notice--success">
-  <h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested. </h4>
-  {{ notice-text | markdownify }}
-</div>
+[comment]:<div class="notice--success">
+[comment]:  <h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested. </h4>
+[comment]:  {{ notice-text | markdownify }}
+[comment]:</div>
 
 <br>
 
