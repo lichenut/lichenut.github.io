@@ -33,8 +33,8 @@ feature_row:
 
 # <i class="fa fa-microchip fa-fw"></i>&nbsp;About Me
 
-I'm a tenure-track Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at University of Louisiana at Lafayette. 
-Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering, University of Toronto， in 2018. 
+I'm a tenure-track Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at the University of Louisiana at Lafayette. 
+Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering at the University of Toronto in 2018. 
 
 My research interests include big data analytics, machine learning systems, cloud computing, datacenter networking, resource allocation and scheduling in networked systems.
 
@@ -44,13 +44,14 @@ My research interests include big data analytics, machine learning systems, clou
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-I'm looking for self-motivated Ph.D. or Master students to work with me starting <h4>Spring 2019</h4> and <h4>Fall 2019</h4>. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
+Full financial support (RA/TA) will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
 {% endcapture %}
 
-[comment]:<div class="notice--success">
-[comment]:  <h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested. </h4>
-[comment]:  {{ notice-text | markdownify }}
-[comment]:</div>
+<div class="notice--success">
+<h4>I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019.
+ </h4>
+{{ notice-text | markdownify }}
+</div>
 
 <br>
 
@@ -58,6 +59,7 @@ I'm looking for self-motivated Ph.D. or Master students to work with me starting
 
 | Time  | Event |
 |-------|-------|
+|2018.08| Li joins Department of Computer Science at UL, teaching CMPS 340 - Design and Analysis of Algorithms.|
 |2018.05| One co-authored paper accepted to **ICML 2018**.|
 |2018.04| One co-authored paper accepted to **USENIX ATC 2018**.|
 |2018.01| One paper accepted to **IEEE Transactions on Parallel and Distributed Systems (TPDS)**.|
