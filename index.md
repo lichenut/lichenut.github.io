@@ -44,7 +44,7 @@ My research interests include big data analytics, machine learning systems, clou
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-I'm looking for self-motivated Ph.D. or Master students to work with me starting Spring 2019 and Fall 2019. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
+I'm looking for self-motivated Ph.D. or Master students to work with me starting <h4>Spring 2019</h4> and <h4>Fall 2019</h4>. Full financial support will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
 {% endcapture %}
 
 [comment]:<div class="notice--success">
