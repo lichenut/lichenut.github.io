@@ -63,14 +63,14 @@ My research interests include big data analytics, machine learning systems, clou
 
 | Time  | Event |
 |-------|-------|
+|2018.09| Our paper accepted to **NIPS 2018**.|
 |2018.08| Li joined Department of Computer Science at UL, teaching CMPS 340 - Design and Analysis of Algorithms.|
-|2018.05| One co-authored paper accepted to **ICML 2018**.|
-|2018.04| One co-authored paper accepted to **USENIX ATC 2018**.|
-|2018.01| One paper accepted to **IEEE Transactions on Parallel and Distributed Systems (TPDS)**.|
-|2018.01| One paper accepted to IEEE Transactions on Network Science and Engineering.|
-|2017.12| One co-authored paper accepted to **IEEE INFOCOM 2018**.|
-|2016.12| One paper accepted to **IEEE INFOCOM 2017**.|
-|2015.12| One paper accepted to **IEEE INFOCOM 2016**.|
+|2018.05| Our paper accepted to **ICML 2018**.|
+|2018.04| Our paper accepted to **USENIX ATC 2018**.|
+|2018.01| Our paper accepted to **IEEE Transactions on Parallel and Distributed Systems (TPDS)**.|
+|2018.01| Our paper accepted to IEEE Transactions on Network Science and Engineering.|
+|2017.12| Our paper accepted to **IEEE INFOCOM 2018**.|
+|2016.12| Our paper accepted to **IEEE INFOCOM 2017**.|
 
 <br>
 
