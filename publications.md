@@ -17,6 +17,8 @@ layout: splash
 
 ## Conference Papers
 
+1. Yuanxiang Gao, **Li Chen**, Baochun Li. “Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization,” in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NIPS 2018)*, Montreal, Canada, December 3-8, 2018.
+
 1. Yuanxiang Gao, **Li Chen**, Baochun Li. “[Spotlight: Optimizing Device Placement for Training Deep Neural Networks](http://iqua.ece.toronto.edu/papers/spotlight-icml18.pdf),” in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
 
 1. Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: Expediting Inter-Datacenter Coflows in Wide-Area Data Analytics," in the *Proceedings of the 2018 USENIX Annual Technical Conference (USENIX ATC 2018)*, Boston, Massachusetts, July 11-13, 2018 (acceptance ratio: 20%).
