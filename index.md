@@ -63,7 +63,7 @@ My research interests include big data analytics, machine learning systems, clou
 
 | Time  | Event |
 |-------|-------|
-|2019.04| Li got a research funding award from Research Competitiveness Subprogram (RCS) of Louisiana Board of Regents Support Fund (BORSF) for "Smart Optimization Framework to Accelerate Distributed Deep Learning". (2019-2022, **28 out of 153 funded**) 
+|2019.04| Li got a research funding award from Research Competitiveness Subprogram (RCS) of Louisiana Board of Regents Support Fund (BORSF) for "Smart Optimization Framework to Accelerate Distributed Deep Learning". (2019-2022, **28 out of 153** funded) 
 |2018.09| Our paper accepted to **NIPS 2018**.|
 |2018.08| Li joined Department of Computer Science at UL, teaching CMPS 340 - Design and Analysis of Algorithms.|
 |2018.05| Our paper accepted to **ICML 2018**.|
