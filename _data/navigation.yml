@@ -8,6 +8,8 @@ homepage:
     children:
       - title: "About Me"
         url: /index.html#about-me
+      - title: "Research Lab"
+        url: /index.html#research-lab
       - title: "News"
         url: /index.html#news
       - title: "Publications"
