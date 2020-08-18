@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2020-05-29T20:05:00-05:00
+last_modified_at: 2020-08-18T20:05:00-05:00
 
 toc: false
 
@@ -59,9 +59,16 @@ My research interests include big data analytics, machine learning systems, clou
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
 
-I'm lucky to work with my PhD students:
+I am directing the research lab, named *CELESTIAL*: Communication Efficient LEarning Systems – The Implementation and Algorithms Lab.
+As the name implies, we are interested in exploring important problems in distributed systems and networking to better facilitate machine learning and drive artificial intelligence, from both the theoretical and practical perspectives. 
+
+Our lab currently has three PhD students:
 
 **Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**
+
+Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar since September 2019.
+
+I'm lucky to work with our group members.
 
 <br>
 
@@ -83,6 +90,9 @@ I'm lucky to work with my PhD students:
 |2016.12| Our paper accepted to **IEEE INFOCOM 2017**.|
 
 
+{% comment %} 
+    
+
 <br>
 
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Selected Publications[(Full List)](/publications){: .btn}
@@ -94,3 +104,5 @@ I'm lucky to work with my PhD students:
 + **Li Chen**, Wei Cui, Baochun Li, Bo Li. "[Optimizing Coflow Completion Times with Utility Max-Min Fairness](http://iqua.ece.toronto.edu/papers/lchen-infocom16.pdf),” in the *Proceedings of IEEE* ***INFOCOM 2016***, San Francisco, California, April 10-15, 2016 (acceptance ratio: 18%).
 
 + **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "[Towards Performance-Centric Fairness in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lchen-infocom14.pdf)," in the *Proceedings of IEEE* ***INFOCOM 2014***, Toronto, Canada, April 27 — May 2, 2014 (acceptance ratio: 19%).
+
+{% endcomment %}

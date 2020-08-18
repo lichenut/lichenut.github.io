@@ -4,22 +4,26 @@ layout: splash
 ---
 
 
-## Journal Papers
 
-1. **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Efficient Performance-Centric Bandwidth Allocation with Fairness Tradeoff," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2018.
+## Conference Proceedings
 
-1. **Li Chen**, Shuhao Liu, Baochun Li, Bo Li. "Scheduling Jobs across Geo-Distributed Datacenters with Max-Min Fairness," to appear in *IEEE Transactions on Network Science and Engineering*, 2018.
+1. Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nianfeng Tzeng. “Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems,” in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
 
-1. **Li Chen**, Baochun Li, Bo Li. "[Allocating Bandwidth in Datacenter Networks: A Survey](http://iqua.ece.toronto.edu/papers/lichen-survey14.pdf)," in *Journal of Computer Science and Technology*, Springer, vol. 29, no. 5, pp. 910-917, September 2014.
+1. Abeda Sultana, **Li Chen**, Fei Xu, Xu Yuan. “E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster,” in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
 
-1. **Li Chen**, Baochun Li, Bo Li. "[On Meeting Deadlines in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lichen-survey13.pdf)," in *Tsinghua Science and Technology*, vol. 18, no. 3, pp. 273-285, June 2013.
+1. Yeting Guo, Fang Liu, Zhiping Cai, **Li Chen**, Nong Xiao. “FEEL: A Federated Edge Learning System for Efficient and Privacy-Preserving Mobile Healthcare,” in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
+
+1. Jiao Li, **Li Chen**. “A Concurrent Weighted Communication Scheme for Blockchain Transaction,” in the *Proceedings of the IEEE INFOCOM 2020 Workshop on Edge Computing Security and Blockchain*, July 6-9, 2020.
 
 
-## Conference Papers
+1. Wujie Shao, Fei Xu, **Li Chen**, Haoyue Zheng, Fangming Liu. “Stage Delay Scheduling: Speeding up DAG-style Data Analytics Jobs with Resource Interleaving,” in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
+
+1. Haoyue Zheng, Fei Xu, **Li Chen**, Zhi Zhou, Fangming Liu. “Cynthia: Cost-Efficient Cloud Resource Provisioning for Predictable Distributed Deep Neural Network Training,” in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
+
 
 1. Yuanxiang Gao, **Li Chen**, Baochun Li. “Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization,” in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NIPS 2018)*, Montreal, Canada, December 3-8, 2018.
 
-1. Yuanxiang Gao, **Li Chen**, Baochun Li. “[Spotlight: Optimizing Device Placement for Training Deep Neural Networks](http://iqua.ece.toronto.edu/papers/spotlight-icml18.pdf),” in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
+1. Yuanxiang Gao, **Li Chen**, Baochun Li. “Spotlight: Optimizing Device Placement for Training Deep Neural Networks,” in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
 
 1. Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: Expediting Inter-Datacenter Coflows in Wide-Area Data Analytics," in the *Proceedings of the 2018 USENIX Annual Technical Conference (USENIX ATC 2018)*, Boston, Massachusetts, July 11-13, 2018 (acceptance ratio: 20%).
 
@@ -27,16 +31,27 @@ layout: splash
 
 1. Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: a High-Performance Substrate for Inter-Datacenter Transfers in Wide-Area Data Analytics," in the *Proceedings of Symposium on Cloud Computing (SoCC) 2017* (Poster Session), Santa Clara, California, September 24-27, 2017.
 
-1. **Li Chen**, Shuhao Liu, Baochun Li, Bo Li. "[Scheduling Jobs across Geo-Distributed Datacenters with Max-Min Fairness](http://iqua.ece.toronto.edu/papers/lchen-infocom17.pdf)," in the *Proceedings of IEEE INFOCOM 2017*, Atlanta, Georgia, May 1-4, 2017 (acceptance ratio: 20%).
+1. **Li Chen**, Shuhao Liu, Baochun Li, Bo Li. "Scheduling Jobs across Geo-Distributed Datacenters with Max-Min Fairness," in the *Proceedings of IEEE INFOCOM 2017*, Atlanta, Georgia, May 1-4, 2017 (acceptance ratio: 20%).
 
-1. **Li Chen**, Wei Cui, Baochun Li, Bo Li. "[Optimizing Coflow Completion Times with Utility Max-Min Fairness](http://iqua.ece.toronto.edu/papers/lchen-infocom16.pdf),” in the *Proceedings of IEEE INFOCOM 2016*, San Francisco, California, April 10-15, 2016 (acceptance ratio: 18%) **(Best-in-Session Presentation)**.
+1. **Li Chen**, Wei Cui, Baochun Li, Bo Li. "Optimizing Coflow Completion Times with Utility Max-Min Fairness,” in the *Proceedings of IEEE INFOCOM 2016*, San Francisco, California, April 10-15, 2016 (acceptance ratio: 18%) *(Best-in-Session Presentation)*.
 
-1. **Li Chen**, Baochun Li, Bo Li. "[Barrier-Aware Max-Min Fair Bandwidth Sharing and Path Selection in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lchen-ic2e16-barrier.pdf)," in the *Proceedings of the 4th IEEE International Conference on Cloud Engineering (IC2E) 2016*, Berlin, Germany, April 4-8, 2016 (acceptance ratio: 23%) **(Best Paper Candidate)**.
+1. **Li Chen**, Baochun Li, Bo Li. "Barrier-Aware Max-Min Fair Bandwidth Sharing and Path Selection in Datacenter Networks," in the *Proceedings of the 4th IEEE International Conference on Cloud Engineering (IC2E) 2016*, Berlin, Germany, April 4-8, 2016 (acceptance ratio: 23%) *(Best Paper Candidate)*.
 
-1. **Li Chen**, Baochun Li, Bo Li. "[Surviving Failures with Performance-Centric Bandwidth Allocation in Private Datacenters](http://iqua.ece.toronto.edu/papers/lchen-ic2e16-failures.pdf)," in the *Proceedings of the 4th IEEE International Conference on Cloud Engineering (IC2E) 2016*, Berlin, Germany, April 4-8, 2016 (acceptance ratio: 23%).
+1. **Li Chen**, Baochun Li, Bo Li. "Surviving Failures with Performance-Centric Bandwidth Allocation in Private Datacenters," in the *Proceedings of the 4th IEEE International Conference on Cloud Engineering (IC2E) 2016*, Berlin, Germany, April 4-8, 2016 (acceptance ratio: 23%).
 
-1. **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "[Towards Performance-Centric Fairness in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lchen-infocom14.pdf)," in the *Proceedings of IEEE INFOCOM 2014*, pp. 1599-1607, Toronto, Canada, April 27 — May 2, 2014 (acceptance ratio: 19%).
+1. **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Towards Performance-Centric Fairness in Datacenter Networks," in the *Proceedings of IEEE INFOCOM 2014*, pp. 1599-1607, Toronto, Canada, April 27 — May 2, 2014 (acceptance ratio: 19%).
 
-[shuhao]: https://shuhaoliu.github.io/
-[baochun]: http://iqua.ece.toronto.edu/bli/index.html
-[boli]: https://www.cse.ust.hk/~bli/
+
+## Journal Articles
+
+1. **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Promenade: Proportionally Fair Multipath Rate Control in Datacenter Networks with Random Network Coding," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 30, issue 11, pp. 2536-2546, November 2019.
+
+1. **Li Chen**, Shuhao Liu, Baochun Li, Bo Li. "Scheduling Jobs across Geo-Distributed Datacenters with Max-Min Fairness," in *IEEE Transactions on Network Science and Engineering*, vol. 6, issue 3, pp. 488-500, July-Sept. 2019.
+
+1. **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Efficient Performance-Centric Bandwidth Allocation with Fairness Tradeoff," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 29, issue 8, pp. 1693-1706, August 2018.
+
+1. **Li Chen**, Baochun Li, Bo Li. "Allocating Bandwidth in Datacenter Networks: A Survey," in *Journal of Computer Science and Technology*, Springer, vol. 29, no. 5, pp. 910-917, September 2014.
+
+1. **Li Chen**, Baochun Li, Bo Li. "[On Meeting Deadlines in Datacenter Networks," in *Tsinghua Science and Technology*, vol. 18, no. 3, pp. 273-285, June 2013.
+
+
