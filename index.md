@@ -8,7 +8,7 @@ sidebar:
   nav: "homepage"
 
 feature_row:
-  - image_path: /assets/images/avatar.jpeg
+  - image_path: /assets/images/lc.jpg
     alt: "Li Chen"
     title: "Li Chen"
     excerpt: "
@@ -20,8 +20,7 @@ feature_row:
     301 East Lewis Street<br>
     Lafayette, LA 70504<br>
     Phone: (337) 482-6774 <br>
-    [Email Me](mailto:li.chen@louisiana.edu){: .btn .btn--inverse} &nbsp;
-    [Google Scholar](https://scholar.google.ca/citations?user=-2tpbVgAAAAJ&hl=zh-CN&citsig=AMstHGSNmAVMw8evMrAM4EHoX6svuzxzxQ){: .btn .btn--inverse}
+    Email: li.chen@louisiana.edu
     "
 ---
 
