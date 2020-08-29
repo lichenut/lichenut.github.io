@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2020-08-18T20:05:00-05:00
+last_modified_at: 2020-08-29T20:05:00-05:00
 
 toc: false
 
@@ -14,7 +14,7 @@ feature_row:
     excerpt: "
     Assistant Professor<br>
     Department of Computer Science<br>
-    School of Computing and Informatics<br>
+    [School of Computing and Informatics](https://computing.louisiana.edu)<br>
     University of Louisiana at Lafayette<br>
     James R. Oliver, Room 233<br>
     301 East Lewis Street<br>
@@ -38,7 +38,7 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 {% endcapture %}
 
 <div class="notice--success">
-<h4>I'm looking for self-motivated Ph.D. students.
+<h4>I'm looking for self-motivated Ph.D. students for Spring/Fall 2021.
  </h4>
 <br>
 {{ notice-text | markdownify }}
@@ -46,10 +46,9 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 
 # <i class="fa fa-feather-alt fa-fw"></i>&nbsp;About Me
 
-I'm a tenure-track Assistant Professor at the <a href="https://computing.louisiana.edu">Department of Computer Science</a>, School of Computing and Informatics at the University of Louisiana at Lafayette. 
-Before joining UL, I received my Ph.D. degree from the [iQua](http://iqua.ece.toronto.edu) research group in the Department of Electrical and Computer Engineering at the University of Toronto in 2018. I received my M.A.Sc degree in January 2015 from ECE at University of Toronto, and my Bachelor degree from the Department of Computer Science and Technology at Huazhong University of Science and Technology in June 2012. From September 2013 to May 2014, I've been in the Hong Kong Polytechnic University as a visiting student. 
+I received my Ph.D. and M.A.Sc. degrees from University of Toronto in 2018 and 2015, respectively, and my Bachelor degree from Huazhong University of Science and Technology in 2012. I visited the Hong Kong Polytechnic University from September 2013 to May 2014.
 
-My research interests include big data analytics, machine learning systems, cloud computing, datacenter networking, resource allocation and scheduling in networked systems.
+My research interests include deep learning systems, federated learning, cloud computing, networking, resource optimization and fairness.
 
 [comment]:**Awards** ([CV](/assets/docs/CV.pdf)): 
 [comment]:* [**Best Paper Candidate**](http://conferences.computer.org/IC2E/2016/program.htm) in IEEE IC2E 2016.
@@ -58,28 +57,30 @@ My research interests include big data analytics, machine learning systems, clou
 
 # <i class="fa fa-layer-group fa-fw"></i>&nbsp;Research Lab
 
-I am directing the research lab, named *CELESTIAL*: Communication Efficient LEarning Systems – The Implementation and Algorithms Lab.
-As the name implies, we are interested in exploring important problems in distributed systems and networking to better facilitate machine learning and drive artificial intelligence, from both the theoretical and practical perspectives. 
+I am directing the research lab, named ***CELESTIAL***: **C**ommunication **E**fficient **LE**arning **S**ystems – **T**he **I**mplementation and **A**lgorithms **L**ab.
+As the name suggests, we are interested in exploring important problems in distributed systems and networking to better facilitate machine learning and drive artificial intelligence, from both the theoretical and practical perspectives. 
 
 Our lab currently has three PhD students:
 
 **Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**
 
-Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar since September 2019.
+Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar from September 2019 to August 2020.
 
 I'm lucky to work with our group members.
 
-<br>
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;News
 
 | Time  | Event |
 |-------|-------|
+|2020.08| **Our project has received [5 million funding award from NSF.](https://computing.louisiana.edu/news-events/news/20200828/cmix-faculty-leads-project-funded-nsf-amount-5-million) Thanks to NSF!**|
+|2020.06| One paper gets accepted to ESORICS 2020.|
+|2020.05| Li will serve on the TPC of INFOCOM 2021.|
 |2020.05| Two papers get accepted to ICPP 2020. Congratulations to Abeda!|
 |2019.05| Two papers get accepted to ICPP 2019.|
 |2019.05| One paper gets accepted to IEEE TPDS 2019.|
 |2019.05| Li will serve on the TPC of INFOCOM 2020.|
-|2019.04| Li got a research funding award from Research Competitiveness Subprogram (RCS) of Louisiana Board of Regents Support Fund (BORSF) for "Smart Optimization Framework to Accelerate Distributed Deep Learning". (2019-2022)|
+|2019.04| Li got a research funding award from Research Competitiveness Subprogram (RCS) of Louisiana Board of Regents Support Fund (BORSF) for "Smart Optimization Framework to Accelerate Distributed Deep Learning" (2019-2022). Thanks to BoR!|
 |2018.09| Our paper accepted to **NIPS 2018**.|
 |2018.05| Our paper accepted to **ICML 2018**.|
 |2018.04| Our paper accepted to **USENIX ATC 2018**.|
@@ -89,19 +90,12 @@ I'm lucky to work with our group members.
 |2016.12| Our paper accepted to **IEEE INFOCOM 2017**.|
 
 
-{% comment %} 
-    
-
 <br>
+# <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
 
-# <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Selected Publications[(Full List)](/publications){: .btn}
++ CSCE 513 Principles of Computer Communication and Networks, Fall 2020.
++ CSCE 555 Principles of Operating Systems Theory, Spring 2020.
++ CSCE 598 QoS in Networking and Distributed Systems, Fall 2019.
++ CSCE 555 Principles of Operating Systems Theory, Spring 2019.
++ CMPS 340 Design and Analysis of Algorithms, Fall 2018.
 
-+ **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Efficient Performance-Centric Bandwidth Allocation with Fairness Tradeoff," to appear in *IEEE Transactions on Parallel and Distributed Systems* ***(TPDS)***, 2018.
-
-+ **Li Chen**, Shuhao Liu, Baochun Li, Bo Li. "[Scheduling Jobs across Geo-Distributed Datacenters with Max-Min Fairness](http://iqua.ece.toronto.edu/papers/lchen-infocom17.pdf)," in the *Proceedings of IEEE* ***INFOCOM 2017***, Atlanta, Georgia, May 1-4, 2017 (acceptance ratio: 20%).
-
-+ **Li Chen**, Wei Cui, Baochun Li, Bo Li. "[Optimizing Coflow Completion Times with Utility Max-Min Fairness](http://iqua.ece.toronto.edu/papers/lchen-infocom16.pdf),” in the *Proceedings of IEEE* ***INFOCOM 2016***, San Francisco, California, April 10-15, 2016 (acceptance ratio: 18%).
-
-+ **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "[Towards Performance-Centric Fairness in Datacenter Networks](http://iqua.ece.toronto.edu/papers/lchen-infocom14.pdf)," in the *Proceedings of IEEE* ***INFOCOM 2014***, Toronto, Canada, April 27 — May 2, 2014 (acceptance ratio: 19%).
-
-{% endcomment %}

@@ -1,8 +1,9 @@
 main:
-  - title: "Biography"
-    url: /bio/
   - title: "Publications"
     url: /publications/
+  - title: "Biography"
+    url: /bio/
+
 homepage:
   - title: HOME
     children:
@@ -12,5 +13,5 @@ homepage:
         url: /index.html#research-lab
       - title: "News"
         url: /index.html#news
-      #- title: "Publications"
-      #  url: /index.html#selected-publicationsfull-list
+      - title: "Teaching"
+        url: /index.html#teaching
