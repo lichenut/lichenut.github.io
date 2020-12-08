@@ -42,6 +42,7 @@ layout: splash
 
 
 ## Journal Articles
++ **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "A Case for Pricing Bandwidth: Sharing Datacenter Networks with Cost Dominant Fairness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
 
 + **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Promenade: Proportionally Fair Multipath Rate Control in Datacenter Networks with Random Network Coding," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 30, issue 11, pp. 2536-2546, November 2019.
 

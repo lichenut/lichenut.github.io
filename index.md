@@ -73,12 +73,13 @@ I'm lucky to work with our group members.
 
 | Time  | Event |
 |-------|-------|
+|2020.12| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems 2021.|
 |2020.08| **Our project has received [5 million funding award from NSF.](https://computing.louisiana.edu/news-events/news/20200828/cmix-faculty-leads-project-funded-nsf-amount-5-million) Thanks to NSF!**|
 |2020.06| One paper gets accepted to ESORICS 2020.|
 |2020.05| Li will serve on the TPC of INFOCOM 2021.|
 |2020.05| Two papers get accepted to ICPP 2020. Congratulations to Abeda!|
 |2019.05| Two papers get accepted to ICPP 2019.|
-|2019.05| One paper gets accepted to IEEE TPDS 2019.|
+|2019.05| One paper gets accepted to IEEE Transactions on Parallel and Distributed Systems 2019.|
 |2019.05| Li will serve on the TPC of INFOCOM 2020.|
 |2019.04| Li got a research funding award from Research Competitiveness Subprogram (RCS) of Louisiana Board of Regents Support Fund (BORSF) for "Smart Optimization Framework to Accelerate Distributed Deep Learning" (2019-2022). Thanks to BoR!|
 |2018.09| Our paper accepted to **NIPS 2018**.|
