@@ -11,7 +11,6 @@ layout: splash
 
 + Hao Lan, **Li Chen**, Baochun Li. “EAGLE: Expedited Device Placement with Automatic Grouping for Large Models,” in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
 
-
 + Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nianfeng Tzeng. “Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems,” in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
 
 + Abeda Sultana, **Li Chen**, Fei Xu, Xu Yuan. “E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster,” in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
