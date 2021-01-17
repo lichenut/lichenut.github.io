@@ -95,7 +95,7 @@ I'm lucky to work with our group members.
 
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
-
++ CSCE 555 Principles of Operating Systems Theory, Spring 2021.
 + CSCE 513 Principles of Computer Communication and Networks, Fall 2020.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2020.
 + CSCE 598 QoS in Networking and Distributed Systems, Fall 2019.
