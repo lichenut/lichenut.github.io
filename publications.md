@@ -46,6 +46,9 @@ layout: splash
 
 
 ## Journal Articles
+
++ Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," to appear in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021.
+
 + Fei Xu, Yiling Qin, **Li Chen**, Zhi Zhou, Fangming Liu. "&lambda;DNN: Achieving Predictable Distributed DNN Training with Serverless Architectures," to appear in *IEEE Transactions on Computers*, 2021.
 
 + **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "A Case for Pricing Bandwidth: Sharing Datacenter Networks with Cost Dominant Fairness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
