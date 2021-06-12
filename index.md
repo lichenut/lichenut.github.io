@@ -73,6 +73,8 @@ I'm lucky to work with our group members.
 
 | Time  | Event |
 |-------|-------|
+|2021.06| Three papers get accepted to the 50th International Conference on Parallel Processing (ICPP), to be held at the Argonne National Laboratory in Chicago, August 2021. Congratulations to Jananie on her work "AMPS-Inf: Automatic Model Partitioning for ServerlessInference with Cost Efficiency"!|
+|2021.05| Our project “Decentralized and Distributed Deep Learning for Industrial IoT Devices” gets funded by Center for Visual and Decision (CVDI) Industrial Advisory Board (IAB).|
 |2021.04| Li got a research funding award from Proof-of-Concept/Prototyping (PoC/P) Initiative of Louisiana Board of Regents Support Fund (BORSF) for "Fast and Efficient Scheduler for Deep Learning in GPU Cluster" (2021-2022). Thanks to BoR!|
 |2021.01| Our paper gets accepted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), 2021.|
 |2021.01| Our paper gets accepted to IEEE Transactions on Computers, 2021.|
