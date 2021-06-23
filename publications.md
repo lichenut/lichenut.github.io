@@ -59,11 +59,11 @@ layout: splash
 
 + **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
 
-+ Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," to appear in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021.
++ Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, vol. 5, issue 1, March 2021.
 
 + Fei Xu, Yiling Qin, **Li Chen**, Zhi Zhou, Fangming Liu. "&lambda;DNN: Achieving Predictable Distributed DNN Training with Serverless Architectures," to appear in *IEEE Transactions on Computers*, 2021.
 
-+ **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "A Case for Pricing Bandwidth: Sharing Datacenter Networks with Cost Dominant Fairness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
++ **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "A Case for Pricing Bandwidth: Sharing Datacenter Networks with Cost Dominant Fairness," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 32, issue 5, pp. 1256-1269, May 2021.
 
 + **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "Promenade: Proportionally Fair Multipath Rate Control in Datacenter Networks with Random Network Coding," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 30, issue 11, pp. 2536-2546, November 2019.
 
