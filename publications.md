@@ -7,26 +7,36 @@ layout: splash
 
 ## Conference Proceedings
 
-+ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. “Astra: Autonomous Serverless Analytics with Cost-Efficiency and QoS-Awareness,” in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
-
-+ Hao Lan, **Li Chen**, Baochun Li. “EAGLE: Expedited Device Placement with Automatic Grouping for Large Models,” in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
-
-+ Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nianfeng Tzeng. “Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems,” in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
-
-+ Abeda Sultana, **Li Chen**, Fei Xu, Xu Yuan. “E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster,” in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
-
-+ Yeting Guo, Fang Liu, Zhiping Cai, **Li Chen**, Nong Xiao. “FEEL: A Federated Edge Learning System for Efficient and Privacy-Preserving Mobile Healthcare,” in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
-
-+ Jiao Li, **Li Chen**. “A Concurrent Weighted Communication Scheme for Blockchain Transaction,” in the *Proceedings of the IEEE INFOCOM 2020 Workshop on Edge Computing Security and Blockchain*, July 6-9, 2020.
-
-+ Wujie Shao, Fei Xu, **Li Chen**, Haoyue Zheng, Fangming Liu. “Stage Delay Scheduling: Speeding up DAG-style Data Analytics Jobs with Resource Interleaving,” in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
-
-+ Haoyue Zheng, Fei Xu, **Li Chen**, Zhi Zhou, Fangming Liu. “Cynthia: Cost-Efficient Cloud Resource Provisioning for Predictable Distributed Deep Neural Network Training,” in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
++ Yihe Zhang, Xu Yuan, Sytske K. Kimball, Eric Rappin, **Li Chen**, Paul Darby, Tom Johnsten, Lu Peng, Boisy Pitre, David Bourrie, and Nian-Feng Tzeng, "Precise Weather Parameter Predictions for Target Regions via Neural Networks," in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, September 13-17, 2021.
 
 
-+ Yuanxiang Gao, **Li Chen**, Baochun Li. “Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization,” in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NIPS 2018)*, Montreal, Canada, December 3-8, 2018.
++ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "AMPS-Inf: Automatic Model Partitioning for Serverless Inference with Cost Efficiency," in the *Proceedings of the 50th International Conference on Parallel Processing (ICPP 2021)*, Argonne National Laboratory, Illinois, August 9-12, 2021.
 
-+ Yuanxiang Gao, **Li Chen**, Baochun Li. “Spotlight: Optimizing Device Placement for Training Deep Neural Networks,” in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
+
++ Hao Lan, **Li Chen**, Baochun Li. "Accelerated Device Placement Optimization with Contrastive Learning," in the *Proceedings of the 50th International Conference on Parallel Processing (ICPP 2021)*, Argonne National Laboratory, Illinois, August 9-12, 2021.
+
++ Zhenwei Zhang, Qiang Qi, Ruitao Shang, **Li Chen**, Fei Xu. "Prophet: Speeding up Distributed DNN Training with Predictable Communication Scheduling," in the *Proceedings of the 50th International Conference on Parallel Processing (ICPP 2021)*, Argonne National Laboratory, Illinois, August 9-12, 2021.
+
++ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astra: Autonomous Serverless Analytics with Cost-Efficiency and QoS-Awareness," in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
+
++ Hao Lan, **Li Chen**, Baochun Li. "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models," in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
+
++ Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nianfeng Tzeng. "Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems," in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
+
++ Abeda Sultana, **Li Chen**, Fei Xu, Xu Yuan. "E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster," in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
+
++ Yeting Guo, Fang Liu, Zhiping Cai, **Li Chen**, Nong Xiao. "FEEL: A Federated Edge Learning System for Efficient and Privacy-Preserving Mobile Healthcare," in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
+
++ Jiao Li, **Li Chen**. "A Concurrent Weighted Communication Scheme for Blockchain Transaction," in the *Proceedings of the IEEE INFOCOM 2020 Workshop on Edge Computing Security and Blockchain*, July 6-9, 2020.
+
++ Wujie Shao, Fei Xu, **Li Chen**, Haoyue Zheng, Fangming Liu. "Stage Delay Scheduling: Speeding up DAG-style Data Analytics Jobs with Resource Interleaving," in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
+
++ Haoyue Zheng, Fei Xu, **Li Chen**, Zhi Zhou, Fangming Liu. "Cynthia: Cost-Efficient Cloud Resource Provisioning for Predictable Distributed Deep Neural Network Training," in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
+
+
++ Yuanxiang Gao, **Li Chen**, Baochun Li. "Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization," in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NIPS 2018)*, Montreal, Canada, December 3-8, 2018.
+
++ Yuanxiang Gao, **Li Chen**, Baochun Li. "Spotlight: Optimizing Device Placement for Training Deep Neural Networks," in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
 
 + Shuhao Liu, **Li Chen**, Baochun Li. "Siphon: Expediting Inter-Datacenter Coflows in Wide-Area Data Analytics," in the *Proceedings of the 2018 USENIX Annual Technical Conference (USENIX ATC 2018)*, Boston, Massachusetts, July 11-13, 2018 (acceptance ratio: 20%).
 
@@ -46,6 +56,8 @@ layout: splash
 
 
 ## Journal Articles
+
++ **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
 
 + Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," to appear in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021.
 
