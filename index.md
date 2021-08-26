@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2021-01-17T20:05:00-05:00
+last_modified_at: 2021-08-17T20:05:00-05:00
 
 toc: false
 
@@ -73,6 +73,7 @@ I'm lucky to work with our group members.
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2021.08| Our paper gets accepted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2021.|
 |2021.06| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems, 2021.|
 |2021.06| Our paper gets accepted to ECML PKDD 2021.|
 |2021.06| Three papers get accepted to the 50th International Conference on Parallel Processing (ICPP), to be held at the Argonne National Laboratory in Chicago, August 2021.|
@@ -102,6 +103,8 @@ I'm lucky to work with our group members.
 
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
++ CMPS 340 Design and Analysis of Algorithms, Fall 2021.
++ CSCE 513 & INFX 540 Principles of Computer Communication and Networks, Fall 2021.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2021.
 + CSCE 513 Principles of Computer Communication and Networks, Fall 2020.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2020.

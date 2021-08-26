@@ -7,6 +7,9 @@ layout: splash
 
 ## Conference Proceedings
 
++ Jie Lian, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSpot: Spotting Your Locations via Acoustic Sensing," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, September 2021. 
+"
+
 + Yihe Zhang, Xu Yuan, Sytske K. Kimball, Eric Rappin, **Li Chen**, Paul Darby, Tom Johnsten, Lu Peng, Boisy Pitre, David Bourrie, and Nian-Feng Tzeng, "Precise Weather Parameter Predictions for Target Regions via Neural Networks," in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, September 13-17, 2021.
 
 
@@ -59,7 +62,7 @@ layout: splash
 
 + **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
 
-+ Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, vol. 5, issue 1, March 2021.
++ Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, vol. 5, issue 1, March 2021.
 
 + Fei Xu, Yiling Qin, **Li Chen**, Zhi Zhou, Fangming Liu. "&lambda;DNN: Achieving Predictable Distributed DNN Training with Serverless Architectures," to appear in *IEEE Transactions on Computers*, 2021.
 
