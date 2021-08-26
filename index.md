@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2021-08-17T20:05:00-05:00
+last_modified_at: 2021-08-25T20:05:00-05:00
 
 toc: false
 
@@ -104,7 +104,7 @@ I'm lucky to work with our group members.
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
 + CMPS 340 Design and Analysis of Algorithms, Fall 2021.
-+ CSCE 513 & INFX 540 Principles of Computer Communication and Networks, Fall 2021.
++ CSCE 513 & INFX 540 Principles of Computer Communication and Networks / Informatics Network Infrastructure, Fall 2021.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2021.
 + CSCE 513 Principles of Computer Communication and Networks, Fall 2020.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2020.
