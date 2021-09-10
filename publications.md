@@ -7,8 +7,11 @@ layout: splash
 
 ## Conference Proceedings
 
-+ Jie Lian, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSpot: Spotting Your Locations via Acoustic Sensing," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, September 2021. 
-"
++ Yihe Zhang,  Xu Yuan, Jin Li, Jiadong Lou, **Li Chen**, Nian-Feng Tzeng. "Reverse Attack: Black-box Attacks on Collaborative Recommendation," in the *Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2021)*, November 15-19, 2021.
+
+
++ Jie Lian, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSpot: Spotting Your Locations via Acoustic Sensing," in the *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, September 2021. 
+
 
 + Yihe Zhang, Xu Yuan, Sytske K. Kimball, Eric Rappin, **Li Chen**, Paul Darby, Tom Johnsten, Lu Peng, Boisy Pitre, David Bourrie, and Nian-Feng Tzeng, "Precise Weather Parameter Predictions for Target Regions via Neural Networks," in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, September 13-17, 2021.
 
@@ -24,7 +27,7 @@ layout: splash
 
 + Hao Lan, **Li Chen**, Baochun Li. "EAGLE: Expedited Device Placement with Automatic Grouping for Large Models," in the *Proceedings of the 35th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2021)*, May 17-21, 2021.
 
-+ Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nianfeng Tzeng. "Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems," in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
++ Yihe Zhang, Jiadong Lou, **Li Chen**, Xu Yuan, Jin Li, Tom Johnsten, Nian-Feng Tzeng. "Towards Poisoning the Neural Collaborative Filtering-Based Recommender Systems," in the *Proceedings of the 25th European Symposium on Research in Computer Security (ESORICS 2020)*, September 14-18, 2020.
 
 + Abeda Sultana, **Li Chen**, Fei Xu, Xu Yuan. "E-LAS: Design and Analysis of Completion-Time Agnostic Scheduling for Distributed Deep Learning Cluster," in the *Proceedings of the 49th International Conference on Parallel Processing (ICPP 2020)*, August 17-20, 2020.
 
