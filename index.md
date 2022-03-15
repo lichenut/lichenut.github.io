@@ -38,7 +38,7 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 {% endcapture %}
 
 <div class="notice--success">
-<h4>I'm looking for self-motivated Ph.D. students for Spring/Fall 2021.
+<h4>I'm looking for self-motivated Ph.D. students for Fall 2022. 
  </h4>
 <br>
 {{ notice-text | markdownify }}
@@ -60,9 +60,9 @@ My research interests include deep learning systems, federated learning, cloud c
 I am directing the research lab, named ***CELESTIAL***: **C**ommunication **E**fficient **LE**arning **S**ystems – **T**he **I**mplementation and **A**lgorithms **L**ab.
 As the name suggests, we are interested in exploring important problems in distributed systems and networking to better facilitate machine learning and drive artificial intelligence, from both the theoretical and practical perspectives. 
 
-Our lab currently has three PhD students:
+Our lab members:
 
-**Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**
+**Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**, **Simin Javaherian**, **Pinky Sitikhu**
 
 Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar from September 2019 to August 2020.
 
@@ -73,6 +73,9 @@ I'm lucky to work with our group members.
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2022.03| Li will serve on the Faculty Panel as a junior faculty panelist at the iREDEFINE Workshop, ECEDHA Annual Conference, 2022. |
+|2022.02| Li will serve on the TPC for IWQoS 2022. |
+|2022.02| Li will serve as the Track Chair for ICCSPA 2022. [Look forward to receiving your original contributions and meeting you this year in Cairo, Egypt.](https://www.linkedin.com/feed/update/urn:li:activity:6906584390613483520) |
 |2021.09| Our paper gets accepted to ACM CCS 2021.|
 |2021.08| Our paper gets accepted to Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp), 2021.|
 |2021.06| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems, 2021.|

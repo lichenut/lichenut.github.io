@@ -10,7 +10,7 @@ layout: splash
 + Yihe Zhang,  Xu Yuan, Jin Li, Jiadong Lou, **Li Chen**, Nian-Feng Tzeng. "Reverse Attack: Black-box Attacks on Collaborative Recommendation," in the *Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2021)*, November 15-19, 2021.
 
 
-+ Jie Lian, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSpot: Spotting Your Locations via Acoustic Sensing," in the *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, September 2021. 
++ Jie Lian, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSpot: Spotting Your Locations via Acoustic Sensing," in the *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, vol. 5, issue 3, September 2021. 
 
 
 + Yihe Zhang, Xu Yuan, Sytske K. Kimball, Eric Rappin, **Li Chen**, Paul Darby, Tom Johnsten, Lu Peng, Boisy Pitre, David Bourrie, and Nian-Feng Tzeng, "Precise Weather Parameter Predictions for Target Regions via Neural Networks," in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, September 13-17, 2021.
@@ -63,11 +63,11 @@ layout: splash
 
 ## Journal Articles
 
-+ **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2021.
++ **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 33, issue 2, pp. 403-414, February 2022.
+
++ Fei Xu, Yiling Qin, **Li Chen**, Zhi Zhou, Fangming Liu. "&lambda;DNN: Achieving Predictable Distributed DNN Training with Serverless Architectures,"  in *IEEE Transactions on Computers*, vol. 71, issue 2, pp. 450-463, February 2022.
 
 + Yeting Guo, Fang Liu, Zhiping Cai, Hui Zeng, **Li Chen**, Nong Xiao. "PREFER: Point-of-interest REcommendation with efficiency and privacy-preservation via Federated Edge leaRning," in *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp)*, vol. 5, issue 1, March 2021.
-
-+ Fei Xu, Yiling Qin, **Li Chen**, Zhi Zhou, Fangming Liu. "&lambda;DNN: Achieving Predictable Distributed DNN Training with Serverless Architectures," to appear in *IEEE Transactions on Computers*, 2021.
 
 + **Li Chen**, Yuan Feng, Baochun Li, Bo Li. "A Case for Pricing Bandwidth: Sharing Datacenter Networks with Cost Dominant Fairness," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 32, issue 5, pp. 1256-1269, May 2021.
 
