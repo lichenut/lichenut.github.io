@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2022-03-15T20:05:00-05:00
+last_modified_at: 2022-04-22T20:05:00-05:00
 
 toc: false
 
@@ -73,6 +73,8 @@ I'm lucky to work with our group members.
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2022.04| Congratulations to Jananie on successfully defending her Ph.D. dissertation! Jananie will join University of Jaffna, Sri Lanka, as a Senior Lecturer (tenure-track).|
+|2022.04| Li will serve on the TPC for INFOCOM 2023. |
 |2022.03| Li will serve on the Faculty Panel as a junior faculty panelist at the iREDEFINE Workshop, ECEDHA Annual Conference, 2022. |
 |2022.02| Li will serve on the TPC for IWQoS 2022. |
 |2022.02| Li will serve as the Track Chair for ICCSPA 2022. [Look forward to receiving your original contributions and meeting you this year in Cairo, Egypt.](https://www.linkedin.com/feed/update/urn:li:activity:6906584390613483520) |
