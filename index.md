@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2022-04-22T20:05:00-05:00
+last_modified_at: 2022-04-27T20:05:00-05:00
 
 toc: false
 
@@ -73,6 +73,7 @@ I'm lucky to work with our group members.
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2022.04| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Jananie!|
 |2022.04| Congratulations to Jananie on successfully defending her Ph.D. dissertation! Jananie will join University of Jaffna, Sri Lanka, as a Senior Lecturer (tenure-track).|
 |2022.04| Li will serve on the TPC for INFOCOM 2023. |
 |2022.03| Li will serve on the Faculty Panel as a junior faculty panelist at the iREDEFINE Workshop, ECEDHA Annual Conference, 2022. |
