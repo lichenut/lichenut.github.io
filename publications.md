@@ -63,7 +63,7 @@ layout: splash
 
 ## Journal Articles
 
-+ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness *, to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
++ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
 
 + **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 33, issue 2, pp. 403-414, February 2022.
 
