@@ -73,6 +73,7 @@ I'm lucky to work with our group members.
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2022.06| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Abeda and Mainul!|
 |2022.04| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Jananie!|
 |2022.04| Congratulations to Jananie on successfully defending her Ph.D. dissertation! Jananie will join University of Jaffna, Sri Lanka, as a Senior Lecturer (tenure-track).|
 |2022.04| Li will serve on the TPC for INFOCOM 2023. |
