@@ -3,22 +3,19 @@ title: "Group"
 layout: splash
 
 gallery1:
-  - image_path: /assets/images/group1.jpg
+  - image_path: /assets/images/summer1.jpg
     alt: "Group image 1"
-    title: "Image 1 title caption"
-  - image_path: /assets/images/group2.jpg
+  - image_path: /assets/images/summer2.jpg
     alt: "Group image 2"
-    title: "Image 2 title caption"
 
 
 gallery2:
   - image_path: /assets/images/jananie1.jpg
     alt: "Jananie image 1"
   - image_path: /assets/images/jananie2.jpg
-    alt: "Jananie image 4"
+    alt: "Jananie image 2"
 
 ---
-
 
 
 
