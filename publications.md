@@ -63,7 +63,7 @@ layout: splash
 
 ## Journal Articles
 
-+ Abeda Sultana, Md. Mainul Haque, **Li Chen**, Fei Xu, Xu Yuan. "Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022
++ Abeda Sultana, Md. Mainul Haque, **Li Chen**, Fei Xu, Xu Yuan. "Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
 
 + Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
 

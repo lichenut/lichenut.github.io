@@ -13,24 +13,21 @@ feature_row:
     title: "Li Chen"
     excerpt: "
     Assistant Professor<br>
-    Department of Computer Science<br>
     [School of Computing and Informatics](https://computing.louisiana.edu)<br>
     University of Louisiana at Lafayette<br>
     James R. Oliver, Room 233<br>
-    301 East Lewis Street<br>
-    Lafayette, LA 70504<br>
+    301 E. Lewis St, Lafayette, LA 70504<br>
     Phone: (337) 482-6774 <br>
     Email: li.chen@louisiana.edu
     "
----
 
+---
 
 {% comment %}
 {% include feature_row id="intro" type="center" %}
 {% endcomment %}
 
 {% include feature_row id="feature_row" type="left" %}
-
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
@@ -60,7 +57,7 @@ My research interests include deep learning systems, federated learning, cloud c
 I am directing the research lab, named ***CELESTIAL***: **C**ommunication **E**fficient **LE**arning **S**ystems – **T**he **I**mplementation and **A**lgorithms **L**ab.
 As the name suggests, we are interested in exploring important problems in distributed systems and networking to better facilitate machine learning and drive artificial intelligence, from both the theoretical and practical perspectives. 
 
-Our lab members:
+Our lab members [(Gallery)](/group/):
 
 **Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**, **Simin Javaherian**, **Pinky Sitikhu**
 
