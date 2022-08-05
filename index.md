@@ -63,7 +63,7 @@ Our lab members [(Gallery)](/group/):
 
 Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar from September 2019 to August 2020.
 
-I'm lucky to work with our group members.
+[Research projects](/projects/) in our lab are sponsored by NSF, Louisiana BoRSF, and IUCRC CVDI IAB (CGI, CSL Behring). Many thanks to our sponsors! And it's always an enjoyable experience working with our group members from diverse backgrounds.
 
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;News
