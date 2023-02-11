@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2022-08-01T20:05:00-05:00
+last_modified_at: 2023-02-10T20:05:00-05:00
 
 toc: false
 
@@ -59,7 +59,7 @@ As the name suggests, we are interested in exploring important problems in distr
 
 Our lab members [(Gallery)](/group/):
 
-**Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**, **Simin Javaherian**, **Pinky Sitikhu**
+**Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**, **Simin Javaherian**, **Pinky Sitikhu**, **Md Sirajul Islam**, **Sanjeev Panta**
 
 Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar from September 2019 to August 2020.
 
@@ -70,8 +70,14 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
-|2022.06| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Abeda and Mainul!|
-|2022.04| Our paper gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Jananie!|
+|2023.02| Li will serve as the Track Chair for the 23rd International Conference on Algorithms and Architectures for Parallel Processing [(ICA3PP 2023)](http://tjutanklab.com/ica3pp2023/authors.html).|
+|2022.12| Our paper, iGniter, gets accepted to appear in IEEE Transactions on Parallel and Distributed Systems. Congratulations!|
+|2022.12| Li serves on the Organizing Committee for the [Gulf Coast AI](https://tulanecs.github.io/GulfCoastAI/) Social Event at NeurIPS 2022, New Orleans.|
+|2022.11| Li will serve on the 2023 NSF GRFP Panel. |
+|2022.11| Our group gives demos on Science Day, an event participated by hundreds of students from high schools across Acadiana.|
+|2022.09| Our group has two new members: Sanjeev Panta, Md Sirajul Islam. Welcome! Pinky Sitikhu, a master student participated in our research project in Spring 2022, receives the Grace Hopper Celebration Scholarship (GHC 2022). Congratulations to Pinky!|
+|2022.06| Our paper, Eiffel, gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Abeda and Mainul!|
+|2022.04| Our paper, Astrea, gets accepted to IEEE Transactions on Parallel and Distributed Systems. Congratulations to Jananie!|
 |2022.04| Congratulations to Jananie on successfully defending her Ph.D. dissertation! Jananie will join University of Jaffna, Sri Lanka, as a Senior Lecturer (tenure-track).|
 |2022.04| Li will serve on the TPC for INFOCOM 2023. |
 |2022.03| Li will serve on the Faculty Panel as a junior faculty panelist at the iREDEFINE Workshop, ECEDHA Annual Conference, 2022. |
@@ -110,6 +116,8 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
++ CSCE 555 Principles of Operating Systems Theory, Spring 2023.
++ CSCE 513 Principles of Computer Communication and Networks, Fall 2022.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2022.
 + CSCE 513 & INFX 540 Principles of Computer Communication and Networks / Informatics Network Infrastructure, Fall 2021.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2021.

@@ -63,9 +63,11 @@ layout: splash
 
 ## Journal Articles
 
-+ Abeda Sultana, Md. Mainul Haque, **Li Chen**, Fei Xu, Xu Yuan. "Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
++ Fei Xu, Jianian Xu, Jiabin Chen, **Li Chen**, Ruitao Shang, Zhi Zhou, Fangming Liu. "iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud," in IEEE Transactions on Parallel and Distributed Systems, vol. 34, issue 3, pp. 812-827, March 2023. 
 
-+ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness," to appear in *IEEE Transactions on Parallel and Distributed Systems*, 2022.
++ Abeda Sultana, Md. Mainul Haque, **Li Chen**, Fei Xu, Xu Yuan. "Eiffel: Efficient and Fair Scheduling in Adaptive Federated Learning," in IEEE Transactions on Parallel and Distributed Systems, vol. 33, issue 12, pp. 4282-4294, December 2022.
+
++ Jananie Jarachanthan, **Li Chen**, Fei Xu, Bo Li. "Astrea: Auto-Serverless Analytics towards Cost-Efficiency and QoS-Awareness," in IEEE Transactions on Parallel and Distributed Systems, vol. 33, issue 12, pp. 3833-3849, December 2022.
 
 + **Li Chen**, Shuhao Liu, Baochun Li. "Optimizing Network Transfers for Data Analytic Jobs across Geo-Distributed Datacenters," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 33, issue 2, pp. 403-414, February 2022.
 
