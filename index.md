@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2023-02-10T20:05:00-05:00
+last_modified_at: 2023-03-31T20:05:00-05:00
 
 toc: false
 
@@ -70,6 +70,7 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2023.03| Our two works, ACTS and spotDNN, get accepted to IEEE/ACM IWQoS 2023. Congratulations!|
 |2023.02| Li will serve as the Track Chair for the 23rd International Conference on Algorithms and Architectures for Parallel Processing [(ICA3PP 2023)](http://tjutanklab.com/ica3pp2023/authors.html).|
 |2022.12| Our paper, iGniter, gets accepted to appear in IEEE Transactions on Parallel and Distributed Systems. Congratulations!|
 |2022.12| Li serves on the Organizing Committee for the [Gulf Coast AI](https://tulanecs.github.io/GulfCoastAI/) Social Event at NeurIPS 2022, New Orleans.|

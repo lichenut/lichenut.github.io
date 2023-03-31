@@ -7,6 +7,11 @@ layout: splash
 
 ## Conference Proceedings
 
+
++ Jananie Jarachanthan, **Li Chen**, Fei Xu. "ACTS: Autonomous Cost-Efficient Task Orchestration for Serverless Analytics," in the *Proceedings of the 31st IEEE/ACM International Symposium on Quality of Service (IWQoS 2023)*, Orlando, FL, June 19–21, 2023.
+
++ Ruitao Shang, Fei Xu, Zhuoyan Bai, **Li Chen**, Zhi Zhou, Fangming Liu. "spotDNN: Provisioning Spot Instances for Predictable Distributed DNN Training in the Cloud," in the *Proceedings of the 31st IEEE/ACM International Symposium on Quality of Service (IWQoS 2023)*, Orlando, FL, June 19–21, 2023.
+
 + Yihe Zhang,  Xu Yuan, Jin Li, Jiadong Lou, **Li Chen**, Nian-Feng Tzeng. "Reverse Attack: Black-box Attacks on Collaborative Recommendation," in the *Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2021)*, November 15-19, 2021.
 
 
