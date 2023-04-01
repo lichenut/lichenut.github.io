@@ -18,7 +18,8 @@ feature_row:
     James R. Oliver, Room 233<br>
     301 E. Lewis St, Lafayette, LA 70504<br>
     Phone: (337) 482-6774 <br>
-    Email: li.chen@louisiana.edu
+    [Email Me](mailto:li.chen@louisiana.edu){: .btn .btn--inverse} &nbsp;
+    [Google Scholar](https://scholar.google.com/citations?user=-2tpbVgAAAAJ&hl=en){: .btn .btn--inverse}
     "
 
 ---
@@ -70,6 +71,7 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2023.03| Sirajul won the 2nd place in the STEM Paper Competition in our university. Congratulations!|
 |2023.03| Our two works, ACTS and spotDNN, get accepted to IEEE/ACM IWQoS 2023. Congratulations!|
 |2023.02| Li will serve as the Track Chair for the 23rd International Conference on Algorithms and Architectures for Parallel Processing [(ICA3PP 2023)](http://tjutanklab.com/ica3pp2023/authors.html).|
 |2022.12| Our paper, iGniter, gets accepted to appear in IEEE Transactions on Parallel and Distributed Systems. Congratulations!|
