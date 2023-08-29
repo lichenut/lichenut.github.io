@@ -36,7 +36,7 @@ Full financial support (RA/TA) will be provided, covering tuition fees and livin
 {% endcapture %}
 
 <div class="notice--success">
-<h4>I'm looking for self-motivated Ph.D. students for Fall 2022. I always welcome undergraduate students to join.
+<h4>I'm looking for self-motivated Ph.D. students for Spring 2024. I always welcome undergraduate students to join.
  </h4>
 <br>
 {{ notice-text | markdownify }}
