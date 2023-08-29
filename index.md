@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2023-03-31T20:05:00-05:00
+last_modified_at: 2023-08-29T20:05:00-05:00
 
 toc: false
 
@@ -71,6 +71,11 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2023.08| Our paper, MMST-ViT, gets accepted to ICCV 2023. Congratulations!|
+|2023.07| Our paper, EchoSensor, gets accepted to ACM Transactions on Sensor Networks. Congratulations!|
+|2023.06| Li served as Session Chair in IEEE/ACM IWQoS 2023 (June 19-21).|
+|2023.06| Our paper gets accepted to ECML PKDD 2023. Congratulations!|
+|2023.05| Li served as Session Chair in IEEE INFOCOM 2023 (May 17-20).|
 |2023.03| Sirajul won the 2nd place in the STEM Paper Competition in our university. Congratulations!|
 |2023.03| Our two works, ACTS and spotDNN, get accepted to IEEE/ACM IWQoS 2023. Congratulations!|
 |2023.02| Li will serve as the Track Chair for the 23rd International Conference on Algorithms and Architectures for Parallel Processing [(ICA3PP 2023)](http://tjutanklab.com/ica3pp2023/authors.html).|
@@ -119,6 +124,8 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
++ CSCE 513 Principles of Computer Communication and Networks, Fall 2023.
++ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing, Fall 2023.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2023.
 + CSCE 513 Principles of Computer Communication and Networks, Fall 2022.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2022.
