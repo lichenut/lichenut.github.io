@@ -56,7 +56,7 @@ July 1 - Lab 5: Coding for LSTM and CNN. [Sample Codes](/tutorial/2022/TSTMCNN.z
 
 ## Week 6
 Watching video clips: Severe Weather.  
-July 6 - Lecture 6: Theory of Deep Learning. [Slides](/tutorial/2022/Lecture_6.pdf). Introduction of Mesonet and WRF-HRRR data. [Slides](/tutorial/2022/lecture_6.1.pdf).  
+July 6 - Lecture 6: Theory of Deep Learning. [Slides](/tutorial/2022/lecture_6.pdf). Introduction of Mesonet and WRF-HRRR data. [Slides](/tutorial/2022/lecture_6.1.pdf).  
 June 7 - Q&A.  
 July 8- Lab 6: Coding for LSTM and CNN (continued). [Sample Codes](/tutorial/2022/TSTMCNN.zip)  
 

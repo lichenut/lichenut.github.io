@@ -21,41 +21,41 @@ layout: "splash"
 
 
 ## Week 1
-May 31 - Lecture 1: Course Overview and Introduction to Machine Learning. [Slides](/tutorial/2023/Lecture_1.pdf)  
+May 31 - Lecture 1: Course Overview and Introduction to Machine Learning. [Slides](/tutorial/2023/lecture_1.pdf)  
 June 2 - Lab 1: Installing Python ([File 1](/tutorial/2022/installing_python.pdf)), Running Simple ML Examples ([File 2](/tutorial/2022/Traditional_ML.docx)).  
 
 
 ## Week 2
 Watching video clips: The sun as the primary weather forcing factor.  
-June 7 - Lecture 2: Feature Selection and ML Classification. [Slides](/tutorial/2023/Lecture_2.pdf)  
+June 7 - Lecture 2: Feature Selection and ML Classification. [Slides](/tutorial/2023/lecture_2.pdf)  
 June 8 - Q&A.  
 June 9 - Lab 2: Labeling Twitter Data and Coding for Feature Extraction. [Data Label Sample Codes](/tutorial/2022/Labeling_code.zip), [Feature Extraction Sample Codes](/tutorial/2022/Feature_Extraction_code.zip)  
 
 
 ## Week 3
 Watching video clips: What happens when the sun hits the Earth's Surface?  
-June 14 - Lecture 3: Neural Networks and Deep Learning Fundamentals. [Slides](/tutorial/2023/Lecture_3.pdf)  
+June 14 - Lecture 3: Neural Networks and Deep Learning Fundamentals. [Slides](/tutorial/2023/lecture_3.pdf)  
 June 15 - Q&A.  
 June 16 - Lab 3: Coding for ML Algorithms. [ML Classification Sample Codes](/tutorial/2023/ML_Classification_code.zip)  
 
 
 ## Week 4
 Watching video clips: Where weather affects us: The Boundary Layer?  
-June 21 - Lecture 4: Theory of Deep Learning. [Slides](/tutorial/2023/Lecture_4.pdf)  
+June 21 - Lecture 4: Theory of Deep Learning. [Slides](/tutorial/2023/lecture_4.pdf)  
 June 22 - Q&A.  
 June 23 - Lab 4: Coding for LSTM and CNN. [Sample Codes](/tutorial/2023/LSTMCNN.zip)  
 
 
 ## Week 5
 Watching video clips: Forecasting Basics?  
-June 28 - Lecture 5: Weather Forecasting: Introduction to Mesonet and WRF-HRRR Data, and Forecasting Modelets. [Slides](/tutorial/2023/Lecture_5.pdf)  
+June 28 - Lecture 5: Weather Forecasting: Introduction to Mesonet and WRF-HRRR Data, and Forecasting Modelets. [Slides](/tutorial/2023/lecture_5.pdf)  
 June 29 - Q&A.  
 June 30 - Lab 5: Downloading Data of Interests and Extracting Features. Download [Sample Data](https://drive.google.com/file/d/1_PE2-Y0rz-5_9-jM1ZuqXqeNhmg0VKkV/view?usp=share_link), and [Micro Sample Codes](https://drive.google.com/file/d/1D5VrocUmQKwYh8HZ4DxirvtNi3tIV7rm/view?usp=share_link) and Micro Running Modelets [Mesonet and WRF Sample Codes](https://drive.google.com/file/d/1DU7st_iSQ2PIeM2Dpx1vnJ0exy_eZads/view?usp=share_link).  
 
 
 ## Week 6
 Watching video clips: Severe Weather.  
-July 5 - Lecture 6: Reinforcement Learning. [Slides](/tutorial/2023/Lecture_6.pdf)  
+July 5 - Lecture 6: Reinforcement Learning. [Slides](/tutorial/2023/lecture_6.pdf)  
 June 6 - Q&A.  
 July 7- Lab 6: Coding for Reinforcement Learning. [Sample Codes](https://drive.google.com/file/d/1-NDPk--BDYzyMwmgd9JXhMdCT2Jfjt6M/view?usp=share_link)  
 
