@@ -124,16 +124,11 @@ Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting s
 
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
-+ CSCE 513 Principles of Computer Communication and Networks, Fall 2023.
-+ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing, Fall 2023.
-+ CSCE 555 Principles of Operating Systems Theory, Spring 2023.
-+ CSCE 513 Principles of Computer Communication and Networks, Fall 2022.
-+ CSCE 555 Principles of Operating Systems Theory, Spring 2022.
-+ CSCE 513 & INFX 540 Principles of Computer Communication and Networks / Informatics Network Infrastructure, Fall 2021.
-+ CSCE 555 Principles of Operating Systems Theory, Spring 2021.
-+ CSCE 513 Principles of Computer Communication and Networks, Fall 2020.
-+ CSCE 555 Principles of Operating Systems Theory, Spring 2020.
-+ CSCE 598 QoS in Networking and Distributed Systems, Fall 2019.
-+ CSCE 555 Principles of Operating Systems Theory, Spring 2019.
-+ CMPS 340 Design and Analysis of Algorithms, Fall 2018.
+
++ CSCE 513 Principles of Computer Communication and Networks (Fall 2023, Fall 2022, Fall 2021, Fall 2020)
++ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing  (Fall 2023)
++ CSCE 555 Principles of Operating Systems Theory (Spring 2023, Spring 2022, Spring 2021, Spring 2020, Spring 2019)
++ INFX 540 Informatics Network Infrastructure (crosslisted with CSCE 513)  (Fall 2021)
++ CSCE 598 QoS in Networking and Distributed Systems (Fall 2019)
++ CMPS 340 Design and Analysis of Algorithms (Fall 2018)
 

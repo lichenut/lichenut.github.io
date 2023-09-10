@@ -5,6 +5,8 @@ main:
     url: /projects/
   - title: "Group"
     url: /group/
+  - title: "Teaching"
+    url: /teaching/
   - title: "Biography"
     url: /bio/
 
