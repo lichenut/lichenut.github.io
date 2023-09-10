@@ -62,14 +62,14 @@ July 7- Lab 6: Coding for Reinforcement Learning. [Sample Codes](https://drive.g
 
 ## Week 7
 Watching video clips: Hurricanes.  
-July 12 - Lecture 7: Introduction of Large Language Models (LLMs). [Slides](https://drive.google.com/file/d/1NeLlLKhUwukN00q6smyLvw-kfIOULkLH/view?usp=share_link)  
+July 12 - Lecture 7: Introduction of Large Language Models (LLMs). [Slides](/tutorial/2023/lecture_7.pdf)  
 June 13 - Q&A.  
 July 14 - Lab 7: Hands-on Experience with Training and Using LLMs. [Lab](https://colab.research.google.com/drive/1Tb46AR_3-9xL2pAV2KqONxaQ6kWGsW8K?usp=sharing)  
 
 
 ## Week 8
 Watching video clips: Measuring the Weather with Instruments and Weather Stations.  
-July 19 - Lecture 8: How Does ChatGPT work? [Slides](https://drive.google.com/file/d/1NN7_CIx6d2N1HbYtvQYK9t7bq6vcd0Yw/view?usp=share_link)  
+July 19 - Lecture 8: How Does ChatGPT work? [Slides](/tutorial/2023/lecture_8.pdf)  
 June 20 - Q&A.  
 July 21 - Lab 8: Hands-on Experience with Training and Using LLMs. [Lab](https://colab.research.google.com/drive/1pwN7NJPFga0WxMGof1D9uuPEKz4mHyk0?usp=sharing)  
  
@@ -77,7 +77,7 @@ July 21 - Lab 8: Hands-on Experience with Training and Using LLMs. [Lab](https:/
 
 ## Week 9
 Watching video clips: Observing Weather with Radar.  
-July 26 - Lecture 9: LLMs for Real-world Applications. [Slides](https://drive.google.com/file/d/1oU4jgord6J-MG7wKAFwwgDoY3h6zgdbI/view?usp=share_link)  
+July 26 - Lecture 9: LLMs for Real-world Applications. [Slides](/tutorial/2023/lecture_9.pdf)  
 June 27 - Q&A.  
 July 28 - Lab 9: Reporting.  
 
