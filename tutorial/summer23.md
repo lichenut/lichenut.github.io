@@ -18,7 +18,8 @@ layout: "splash"
 	Dr. Sytske Kimball, University of South Alabama  
 	Dr. Eric Rappin, Western Kentucky University  
 
-
+### TAs: 
+Jiadong Lou, &nbsp; Fudong Lin, &nbsp; Md Sirajul Islam
 
 ## Week 1
 May 31 - Lecture 1: Course Overview and Introduction to Machine Learning. [Slides](/tutorial/2023/lecture_1.pdf)  

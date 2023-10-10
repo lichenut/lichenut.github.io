@@ -17,7 +17,8 @@ Dr. Nian-Feng Tzeng
 Dr. Sytske Kimball  
 Dr. Eric Rappin
 
-
+### TAs: 
+Yihe Zhang, &nbsp; Jiadong Lou
 
 ## Week 1
 May 31 - Introduction to Course Overview.  

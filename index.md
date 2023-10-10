@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2023-08-29T20:05:00-05:00
+last_modified_at: 2023-10-09T20:05:00-05:00
 
 toc: false
 
@@ -60,9 +60,20 @@ As the name suggests, we are interested in exploring important problems in distr
 
 Our lab members [(Gallery)](/group/):
 
-**Jananie Jarachanthan**, **Abeda Sultana**, **Md Mainul Haque**, **Simin Javaherian**, **Pinky Sitikhu**, **Md Sirajul Islam**, **Sanjeev Panta**
+Alumni:
+**Jananie Jarachanthan** (Ph.D., Spring 2019 - Spring 2022), now with University of Jaffna (tenure-track), **Md Mainul Haque** (M.S.), **Pinky Sitikhu** (M.S.), 
 
-Dr. **Jiao Li** from Xi'an Shiyou University has been in our lab as a visiting scholar from September 2019 to August 2020.
+Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 to August 2020)
+
+PhD:
+**Abeda Sultana**, **Simin Javaherian**, **Md Sirajul Islam**, **Sanjeev Panta**, **Thanawat Chanikaphon** 
+
+Master:
+**Clinton Akalazu**, **Nandakumarreddy Peddagorla**, **Sai Eshwar Reddy Gangireddy**
+
+Undergraduate: **Jatin Patel**
+
+
 
 [Research projects](/projects/) in our lab are sponsored by NSF, Louisiana BoRSF, and IUCRC CVDI IAB (CGI, CSL Behring). Many thanks to our sponsors! And it's always an enjoyable experience working with our group members from diverse backgrounds.
 
