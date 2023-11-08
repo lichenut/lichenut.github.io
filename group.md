@@ -3,6 +3,20 @@ title: "Group"
 layout: splash
 
 
+fa23-1:
+  - image_path: /assets/images/science23_1.png
+    alt: "Group image 1"
+  - image_path: /assets/images/science23_2.png
+    alt: "Group image 2"
+
+
+fa23-2:
+  - image_path: /assets/images/science23_3.jpg
+    alt: "Group image 3"
+  - image_path: /assets/images/science23_4.jpg
+    alt: "Group image 2"
+
+
 fa22:
   - image_path: /assets/images/scienceday.jpg
     alt: "Group image 1"
@@ -28,6 +42,14 @@ sp22:
 
 
 ## Group Photo Gallery
+
+
+**Fall 2023** 
+
+
+{% include gallery id="fa23-1" caption="Our group gives demos (Machine Learning Systems and Applications) on Science Day, Oct. 20th, 2023, hosting approximately 1000 high school students. Photos: Sirajul is demonstrating federated learning across mobile phones." %}
+
+{% include gallery id="fa23-2" caption="Left photo: Clinton is introducing elementary concepts. Right photo: Jessica, Nandakumar, Simin, me, Sirajul, Sanjeev, and Nicholas. Thanks to our group members and volunteers (Nabin and others that are not on this photo)!" %}
 
 
 
