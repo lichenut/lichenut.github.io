@@ -12,7 +12,7 @@ fa23-1:
 
 fa23-2:
   - image_path: /assets/images/science23_3.JPG
-    alt: "Group image 3"
+    alt: "Group image 1"
   - image_path: /assets/images/science23_4.jpg
     alt: "Group image 2"
 
