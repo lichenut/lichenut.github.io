@@ -7,6 +7,8 @@ layout: splash
 
 ## Conference Proceedings
 
++ Shuhao Liu, **Li Chen**, Yuanzhong Fu. "Periscoping: Private Key Distribution for Large-Scale Mixnets," in the *Proceedings of IEEE INFOCOM 2024*, Vancouver, Canada, May 20-23, 2024.
+
 + Fudong Lin, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, **Li Chen**, Shelby Williams, Robert Minvielle, Xiangming Xiao, Drew Gholson, Nicolas Ashwell, Tri Setiyono, Brenda Tubana, Lu Peng, Magdy Bayoumi, Nian-Feng Tzeng. "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer," in *International Conference on Computer Vision (ICCV)*, October 4-6, 2023.
 
 + Fudong Lin, Xu Yuan, Yihe Zhang, Purushottam Sigdel, **Li Chen**, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction," in the *European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)*, September 18-22, 2023.

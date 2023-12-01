@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2023-11-07T20:05:00-05:00
+last_modified_at: 2023-12-01T20:05:00-05:00
 
 toc: false
 
@@ -82,6 +82,7 @@ Undergraduate: **Jatin Patel**
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2023.12| Our paper, Periscoping, gets accepted to IEEE INFOCOM 2024. Congratulations!|
 |2023.11| Li received an NSF EPSCoR Research Infrastructure Improvement (RII) Track-4 funding award for her project on "HEAL: Heterogeneity-aware Efficient and Adaptive Learning at Clusters and Edges" (2024-2026). This research fellowship program will support our collaborative visits at UIUC. Thanks to NSF!|
 |2023.10| Our group gives demos on Science Day, an event participated by approximately 1000 students from 84 high schools, from 53 cities across the state.|
 |2023.08| Our paper, MMST-ViT, gets accepted to ICCV 2023. Congratulations!|

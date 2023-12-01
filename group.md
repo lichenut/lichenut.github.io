@@ -49,7 +49,7 @@ sp22:
 
 {% include gallery id="fa23-1" caption="Our group gives demos (Machine Learning Systems and Applications) on Science Day, Oct. 20th, 2023, hosting approximately 1000 high school students. Photos: Sirajul is demonstrating federated learning across mobile phones." %}
 
-{% include gallery id="fa23-2" caption="Left photo: Clinton is introducing elementary concepts. Right photo: Jessica, Nandakumar, Simin, me, Sirajul, Sanjeev, and Nicholas. Thanks to our group members and volunteers (Nabin and others that are not on this photo)!" %}
+{% include gallery id="fa23-2" caption="Left photo: Clinton is introducing elementary concepts. Right photo: Jessica, Nandakumar, Simin, me, Sirajul, Sanjeev, and Nicholas. Thanks to our group members and volunteers (Nabin, Clement, and others that are not on this photo)!" %}
 
 
 
