@@ -7,6 +7,12 @@ layout: splash
 
 ## Conference Proceedings
 
++ Abeda Sultana, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "Hadar: Heterogeneity-Aware Optimization-Based Online Scheduling for Deep Learning Clusters," in the *Proceedings of the 38th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2024)*, San Francisco, California, May 27-31, 2024.
+
++ Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering," in the *Proceedings of the 38th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2024)* (Poster Presentation), San Francisco, California, May 27-31, 2024.
+
++ Simin Javaherian, Sanjeev Panta, Shelby Williams, Md Sirajul Islam, **Li Chen**. "FedFair^3: Unlocking Threefold Fairness in Federated Learning," in the *Proceedings of the IEEE International Conference on Communications (ICC)*, Denver, Colorado, June 9-13, 2024.
+
 + Shuhao Liu, **Li Chen**, Yuanzhong Fu. "Periscoping: Private Key Distribution for Large-Scale Mixnets," in the *Proceedings of IEEE INFOCOM 2024*, Vancouver, Canada, May 20-23, 2024.
 
 + Fudong Lin, Summer Crawford, Kaleb Guillot, Yihe Zhang, Yan Chen, Xu Yuan, **Li Chen**, Shelby Williams, Robert Minvielle, Xiangming Xiao, Drew Gholson, Nicolas Ashwell, Tri Setiyono, Brenda Tubana, Lu Peng, Magdy Bayoumi, Nian-Feng Tzeng. "MMST-ViT: Climate Change-aware Crop Yield Prediction via Multi-Modal Spatial-Temporal Vision Transformer," in *International Conference on Computer Vision (ICCV)*, October 4-6, 2023.
@@ -50,7 +56,7 @@ layout: splash
 + Haoyue Zheng, Fei Xu, **Li Chen**, Zhi Zhou, Fangming Liu. "Cynthia: Cost-Efficient Cloud Resource Provisioning for Predictable Distributed Deep Neural Network Training," in the *Proceedings of the 48th International Conference on Parallel Processing (ICPP 2019)*, Kyoto, Japan, August 5-8, 2019.
 
 
-+ Yuanxiang Gao, **Li Chen**, Baochun Li. "Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization," in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NIPS 2018)*, Montreal, Canada, December 3-8, 2018.
++ Yuanxiang Gao, **Li Chen**, Baochun Li. "Post: Device Placement with Cross-Entropy Minimization and Proximal Policy Optimization," in the *Proceedings of the 32rd Conference on Neural Information Processing Systems (NeurIPS 2018)*, Montreal, Canada, December 3-8, 2018.
 
 + Yuanxiang Gao, **Li Chen**, Baochun Li. "Spotlight: Optimizing Device Placement for Training Deep Neural Networks," in the *Proceedings of the 35th International Conference on Machine Learning (ICML 2018)*, Stockholm, Sweden, July 10-15, 2018.
 

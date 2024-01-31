@@ -6,7 +6,8 @@ layout: "splash"
 
 ## Teaching
 
-
++ CSCE 555 Principles of Operating Systems Theory, Spring 2024.
++ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing, Spring 2024.
 + CSCE 513 Principles of Computer Communication and Networks, Fall 2023.
 + CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing, Fall 2023.
 + CSCE 555 Principles of Operating Systems Theory, Spring 2023.

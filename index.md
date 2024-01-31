@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2023-12-01T20:05:00-05:00
+last_modified_at: 2024-01-31T20:05:00-05:00
 
 toc: false
 
@@ -82,6 +82,9 @@ Undergraduate: **Jatin Patel**
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.01| Our two works, Hadar and FedClust, get accepted to IEEE IPDPS 2024. Congratulations to Abeda, Sirajul, and other collaborators!|
+|2024.01| Our paper, FedFair^3, gets accepted to IEEE ICC 2024. Congratulations to Simin, Sanjeev, and other collaborators!|
+|2023.12| Our group attended NeurIPS 2023 at New Orleans, along with other UL students. What a wonderful experience!|
 |2023.12| Our paper, Periscoping, gets accepted to IEEE INFOCOM 2024. Congratulations!|
 |2023.11| Li received an NSF EPSCoR Research Infrastructure Improvement (RII) Track-4 funding award for her project on "HEAL: Heterogeneity-aware Efficient and Adaptive Learning at Clusters and Edges" (2024-2026). This research fellowship program will support our collaborative visits at UIUC. Thanks to NSF!|
 |2023.10| Our group gives demos on Science Day, an event participated by approximately 1000 students from 84 high schools, from 53 cities across the state.|
@@ -140,8 +143,8 @@ Undergraduate: **Jatin Patel**
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
 
 + CSCE 513 Principles of Computer Communication and Networks (Fall 2023, Fall 2022, Fall 2021, Fall 2020)
-+ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing  (Fall 2023)
-+ CSCE 555 Principles of Operating Systems Theory (Spring 2023, Spring 2022, Spring 2021, Spring 2020, Spring 2019)
++ CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing  (Spring 2024, Fall 2023)
++ CSCE 555 Principles of Operating Systems Theory (Spring 2024, Spring 2023, Spring 2022, Spring 2021, Spring 2020, Spring 2019)
 + INFX 540 Informatics Network Infrastructure (crosslisted with CSCE 513)  (Fall 2021)
 + CSCE 598 QoS in Networking and Distributed Systems (Fall 2019)
 + CMPS 340 Design and Analysis of Algorithms (Fall 2018)

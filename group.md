@@ -2,6 +2,11 @@
 title: "Group"
 layout: splash
 
+wi23:
+  - image_path: /assets/images/neurips23_1.jpg
+    alt: "Group image 1"
+  - image_path: /assets/images/neurips23_2.jpg
+    alt: "Group image 2"
 
 fa23-1:
   - image_path: /assets/images/science23_1.png
@@ -42,6 +47,13 @@ sp22:
 
 
 ## Group Photo Gallery
+
+
+**Winter Break 2023**
+
+
+{% include gallery id="wi23" caption="Group Conference Travel at NeurIPS 2023, New Orleans. Photos: Li with UL students at NeurIPS; Panel on [Gulf Coast AI](https://tulanecs.github.io/GulfCoastAI/): Walter Isaacson, author of bestselling books including Elon Musk and Steve Jobs, is sharing his insights on opportunities and risks of AI in the Gulf region (photo by Sam Birdsong)." %}
+
 
 
 **Fall 2023** 
