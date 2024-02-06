@@ -82,6 +82,7 @@ Undergraduate: **Jatin Patel**
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.02| Our work on acoustic-based indoor motion tracking gets accepted to ACM Transactions on Sensor Networks. Congratulations!|
 |2024.01| Our two works, Hadar and FedClust, get accepted to IEEE IPDPS 2024. Congratulations to Abeda, Sirajul, and other collaborators!|
 |2024.01| Our paper, FedFair^3, gets accepted to IEEE ICC 2024. Congratulations to Simin, Sanjeev, and other collaborators!|
 |2023.12| Our group attended NeurIPS 2023 at New Orleans, along with other UL students. What a wonderful experience!|
