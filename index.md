@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-02-05T20:05:00-05:00
+last_modified_at: 2024-04-02T20:05:00-05:00
 
 toc: false
 
@@ -82,6 +82,7 @@ Undergraduate: **Jatin Patel**
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.04| Li got a research funding award from Industrial Ties Research Subprogram of Louisiana BORSF for "Federated Deep Learners for Medical Image Analysis and Treatment Guidance" (2024-2027), in collaboration with Co-PI Dr. Songyang Zhang and our industrial partner XRMedix. Thanks to BoR!|
 |2024.02| Our work on acoustic-based indoor motion tracking gets accepted to ACM Transactions on Sensor Networks. Congratulations!|
 |2024.01| Our two works, Hadar and FedClust, get accepted to IEEE IPDPS 2024. Congratulations to Abeda, Sirajul, and other collaborators!|
 |2024.01| Our paper, FedFair^3, gets accepted to IEEE ICC 2024. Congratulations to Simin, Sanjeev, and other collaborators!|
