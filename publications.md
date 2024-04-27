@@ -7,6 +7,8 @@ layout: splash
 
 ## Conference Proceedings
 
++ Jiabin Chen, Fei Xu, Yikun Gu, **Li Chen**, Fangming Liu, Zhi Zhou. "HarmonyBatch: Batching multi-SLO DNN Inference with Heterogeneous Serverless Functions," in the *Proceedings of the IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)*, Guangzhou, China, June 19–21, 2024.
+
 + Abeda Sultana, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "Hadar: Heterogeneity-Aware Optimization-Based Online Scheduling for Deep Learning Clusters," in the *Proceedings of the 38th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2024)*, San Francisco, California, May 27-31, 2024.
 
 + Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Optimizing Federated Learning on Non-IID Data through Weight-Driven Client Clustering," in the *Proceedings of the 38th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2024)* (Poster Presentation), San Francisco, California, May 27-31, 2024.
