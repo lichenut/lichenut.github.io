@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-05-15T20:05:00-05:00
+last_modified_at: 2024-06-23T20:05:00-05:00
 
 toc: false
 
@@ -82,6 +82,7 @@ Undergraduate: **Jatin Patel**
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.06| Our paper gets accepted to ICPP 2024. Congratulations to Sirajul, Simin, and other collaborators!|
 |2024.05| Li is honored to have been awarded the Alfred and Helen Lamson/BORSF Endowed Professorship in Computer Science (Fall 2024 - Spring 2027).|
 |2024.05| Congratulations to Abeda on successfully defending her dissertation and earning her Ph.D. degree!|
 |2024.04| Our paper gets accepted to IEEE/ACM IWQoS 2024. Congratulations!|

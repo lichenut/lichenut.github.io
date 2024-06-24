@@ -6,6 +6,7 @@ layout: splash
 
 
 ## Conference Proceedings
++ Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering," in the *Proceedings of the 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, August 12-15, 2024.
 
 + Jiabin Chen, Fei Xu, Yikun Gu, **Li Chen**, Fangming Liu, Zhi Zhou. "HarmonyBatch: Batching multi-SLO DNN Inference with Heterogeneous Serverless Functions," in the *Proceedings of the IEEE/ACM International Symposium on Quality of Service (IWQoS 2024)*, Guangzhou, China, June 19–21, 2024.
 
