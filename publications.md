@@ -26,6 +26,8 @@ layout: splash
 
 + Ruitao Shang, Fei Xu, Zhuoyan Bai, **Li Chen**, Zhi Zhou, Fangming Liu. "spotDNN: Provisioning Spot Instances for Predictable Distributed DNN Training in the Cloud," in the *Proceedings of the 31st IEEE/ACM International Symposium on Quality of Service (IWQoS 2023)*, Orlando, FL, June 19–21, 2023.
 
++ Fengzhou Liang, Fang Liu, Tongqing Zhou, Yunhai Wang, **Li Chen**. "An Interactive Visualization System for Streaming Data Online Exploration," in *International Conference on Mobile and Ubiquitous Systems: Computing, Networking, and Services*, Pittsburgh, November 14-17, 2022.
+
 + Yihe Zhang,  Xu Yuan, Jin Li, Jiadong Lou, **Li Chen**, Nian-Feng Tzeng. "Reverse Attack: Black-box Attacks on Collaborative Recommendation," in the *Proceedings of the 2021 ACM SIGSAC Conference on Computer and Communications Security (ACM CCS 2021)*, November 15-19, 2021.
 
 
@@ -82,8 +84,9 @@ layout: splash
 
 ## Journal Articles
 
-+ Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, accepted in February 2024.
++ Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters" in *IEEE Transactions on Services Computing*, August 2024.
 
++ Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, accepted in February 2024.
 
 + Jie Lian, Changlai Du, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSensor: Fine-Grained Ultrasonic Sensing for Smart Home Intrusion Detection," in *ACM Transactions on Sensor Networks*, vol. 20, issue 1, no. 10, pp. 1-24, 
 October 2023.

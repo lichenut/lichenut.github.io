@@ -12,7 +12,7 @@ feature_row:
     alt: "Li Chen"
     title: "Li Chen"
     excerpt: "
-    Assistant Professor<br>
+    Alfred and Helen Lamson/BORSF Endowed Associate Professor<br>
     [School of Computing and Informatics](https://computing.louisiana.edu)<br>
     University of Louisiana at Lafayette<br>
     James R. Oliver, Room 233<br>
