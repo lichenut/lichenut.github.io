@@ -31,7 +31,7 @@ feature_row:
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-If you are looking for assistantships, please highlight your strengths, describe why you want to join us, and how you could and/or plan to contribute to our research. Be brief and sincere.
+If you are looking for assistantships, please highlight your strengths, describe why you want to join us, and how you could and/or plan to contribute to our research. Be brief and sincere. ([The Cajun vibe](https://louisiana.edu/student-experience/cultures-traditions))
 {% endcapture %}
 
 <div class="notice--success">
