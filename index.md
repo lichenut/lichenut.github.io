@@ -35,7 +35,7 @@ If you are looking for assistantships, please highlight your strengths, describe
 {% endcapture %}
 
 <div class="notice--success">
-<h4>Perspective students (PhD and/or undergrad):
+<h4>Prospective students (PhD and/or undergrad):
  </h4>
 <br>
 {{ notice-text | markdownify }}
