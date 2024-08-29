@@ -17,7 +17,6 @@ feature_row:
     University of Louisiana at Lafayette<br>
     James R. Oliver, Room 233<br>
     301 E. Lewis St, Lafayette, LA 70504<br>
-    Phone: (337) 482-6774 <br>
     [Email Me](mailto:li.chen@louisiana.edu){: .btn .btn--inverse} &nbsp;
     [Google Scholar](https://scholar.google.com/citations?user=-2tpbVgAAAAJ&hl=en){: .btn .btn--inverse}
     "
@@ -32,11 +31,11 @@ feature_row:
 
 {% capture notice-text %}
 [comment]: <> Please checkout my [CV](/assets/docs/CV.pdf), [Research Statement](/assets/docs/research_statement.pdf), and [Teaching Statement](/assets/docs/teaching_statement.pdf).
-Full financial support (RA/TA) will be provided, covering tuition fees and living expenditures. Please email me your CV if interested.
+If you are looking for assistantships, please highlight your strengths, describe why you want to join us, and how you could and/or plan to contribute to our research. Be brief and sincere.
 {% endcapture %}
 
 <div class="notice--success">
-<h4>I'm looking for self-motivated Ph.D. students for Spring 2024. I always welcome undergraduate students to join.
+<h4>Perspective students (PhD and/or undergrad):
  </h4>
 <br>
 {{ notice-text | markdownify }}
@@ -60,22 +59,16 @@ As the name suggests, we are interested in exploring important problems in distr
 
 Our lab members [(Gallery)](/group/):
 
+PhD:
+**Simin Javaherian**, **Md Sirajul Islam**, **Sanjeev Panta**, **Thanawat Chanikaphon**, **N I Md Ashafuddula**
+
 Alumni:
-**Jananie Jarachanthan** (Ph.D., Spring 2019 - Spring 2022), now with University of Jaffna (tenure-track), **Md Mainul Haque** (M.S.), **Pinky Sitikhu** (M.S.) 
+**Jananie Jarachanthan** (Ph.D., Spring 2019 - Spring 2022), now with University of Jaffna (tenure-track), **Abeda Sultana** (Ph.D., Spring 2024), **Md Mainul Haque** (M.S.), **Pinky Sitikhu** (M.S.), **Clinton Akalazu**, **Nandakumarreddy Peddagorla**, **Sai Eshwar Reddy Gangireddy**, **Jatin Patel** 
 
 Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 to August 2020)
 
-PhD:
-**Abeda Sultana**, **Simin Javaherian**, **Md Sirajul Islam**, **Sanjeev Panta**, **Thanawat Chanikaphon** 
 
-Master:
-**Clinton Akalazu**, **Nandakumarreddy Peddagorla**, **Sai Eshwar Reddy Gangireddy**
-
-Undergraduate: **Jatin Patel**
-
-
-
-[Research projects](/projects/) in our lab are sponsored by NSF, Louisiana BoRSF, and IUCRC CVDI IAB (CGI, CSL Behring). Many thanks to our sponsors! And it's always an enjoyable experience working with our group members from diverse backgrounds.
+[Research projects](/projects/) in our lab are sponsored by NSF, Louisiana BoRSF, IUCRC CVDI IAB (CGI, CSL Behring), and XRMedix. Many thanks to our sponsors! And it's always an enjoyable experience working with our group members from diverse backgrounds.
 
 
 # <i class="fa fa-seedling fa-fw"></i>&nbsp;News
@@ -148,7 +141,7 @@ Undergraduate: **Jatin Patel**
 <br>
 # <i class="fa fa-pencil-alt fa-fw"></i>&nbsp;Teaching
 
-+ CSCE 513 Principles of Computer Communication and Networks (Fall 2023, Fall 2022, Fall 2021, Fall 2020)
++ CSCE 513 Principles of Computer Communication and Networks (Fall 2024, Fall 2023, Fall 2022, Fall 2021, Fall 2020)
 + CSCE 533 & CMPS 432 Distributed Computing Systems / Parallel and Distributed Computing  (Spring 2024, Fall 2023)
 + CSCE 555 Principles of Operating Systems Theory (Spring 2024, Spring 2023, Spring 2022, Spring 2021, Spring 2020, Spring 2019)
 + INFX 540 Informatics Network Infrastructure (crosslisted with CSCE 513)  (Fall 2021)
