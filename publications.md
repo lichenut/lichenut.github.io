@@ -84,7 +84,7 @@ layout: splash
 
 ## Journal Articles
 
-+ Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters" in *IEEE Transactions on Services Computing*, August 2024.
++ Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters," in *IEEE Transactions on Services Computing*, August 2024.
 
 + Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, accepted in February 2024.
 

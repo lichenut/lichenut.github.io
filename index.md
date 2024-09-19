@@ -75,6 +75,8 @@ Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 t
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.09| Sirajul is awarded the SGA Scholarship. Congratulations!|
+|2024.08| Li is promoted to Associate Professor with tenure. Heartfelt thanks to the wonderful mentors, colleagues, students, and friends along this journey!|
 |2024.06| Our paper gets accepted to ICPP 2024. Congratulations to Sirajul, Simin, and other collaborators!|
 |2024.05| Li is honored to have been awarded the Alfred and Helen Lamson/BORSF Endowed Professorship in Computer Science (Fall 2024 - Spring 2027).|
 |2024.05| Congratulations to Abeda on successfully defending her dissertation and earning her Ph.D. degree!|
