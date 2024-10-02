@@ -84,12 +84,13 @@ layout: splash
 
 ## Journal Articles
 
++ Aodong Chen, Fei Xu, Li Han, Yuan Dong, **Li Chen**, Zhi Zhou, Fangming Liu. "Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs," in *IEEE Transactions on Computers*, accepted in October 2024.
+
 + Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters," in *IEEE Transactions on Services Computing*, August 2024.
 
-+ Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, accepted in February 2024.
++ Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, vol. 20, issue 3, no. 61, pp. 1-23, April 2024.
 
-+ Jie Lian, Changlai Du, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSensor: Fine-Grained Ultrasonic Sensing for Smart Home Intrusion Detection," in *ACM Transactions on Sensor Networks*, vol. 20, issue 1, no. 10, pp. 1-24, 
-October 2023.
++ Jie Lian, Changlai Du, Jiadong Lou, **Li Chen**, Xu Yuan. "EchoSensor: Fine-Grained Ultrasonic Sensing for Smart Home Intrusion Detection," in *ACM Transactions on Sensor Networks*, vol. 20, issue 1, no. 10, pp. 1-24, October 2023.
 
 + Fei Xu, Jianian Xu, Jiabin Chen, **Li Chen**, Ruitao Shang, Zhi Zhou, Fangming Liu. "iGniter: Interference-Aware GPU Resource Provisioning for Predictable DNN Inference in the Cloud," in *IEEE Transactions on Parallel and Distributed Systems*, vol. 34, issue 3, pp. 812-827, March 2023. 
 
