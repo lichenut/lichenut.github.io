@@ -6,6 +6,9 @@ layout: splash
 
 
 ## Conference Proceedings
+
++ Md Sirajul Islam, Sanjeev Panta, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training," in the *Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)*, Milano, Italy, June 3-7, 2025.
+
 + Qiannan Zhou, Fei Xu, Linxuan Weng, Ruixing Li, Xudong Wu, **Li Chen**, Zhi Zhou, Fangming Liu. "Espresso: Cost-Efficient Large Model Training by Exploiting GPU Heterogeneity in the Cloud," in the *Proceedings of IEEE INFOCOM 2025*, London, United Kingdom, May 19-22, 2025.
 
 + Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering," in the *Proceedings of the 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, August 12-15, 2024.

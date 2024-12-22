@@ -1,6 +1,6 @@
 ---
 layout: single
-last_modified_at: 2024-08-29T20:05:00-05:00
+last_modified_at: 2024-12-20T20:05:00-05:00
 
 toc: false
 
@@ -75,6 +75,7 @@ Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 t
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2024.12| Our works, Espresso and SEAFL, get accepted to IEEE INFOCOM and IPDPS 2025, respectively. Congratulations to Sirajul, Sanjeev, and other collaborators!|
 |2024.09| Sirajul is awarded the SGA Scholarship. Congratulations!|
 |2024.08| Li is promoted to Associate Professor with tenure. Heartfelt thanks to the wonderful mentors, colleagues, students, and friends along this journey!|
 |2024.06| Our paper gets accepted to ICPP 2024. Congratulations to Sirajul, Simin, and other collaborators!|
