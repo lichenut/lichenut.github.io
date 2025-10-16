@@ -60,7 +60,7 @@ As the name suggests, we are interested in exploring important problems in distr
 Our lab members [(Gallery)](/group/):
 
 PhD:
-**Simin Javaherian**, **Md Sirajul Islam**, **Sanjeev Panta**, **Thanawat Chanikaphon**, **N I Md Ashafuddula**
+**Simin Javaherian**, **Md Sirajul Islam**, **Sanjeev Panta**, **Thanawat Chanikaphon**, **N I Md Ashafuddula**, **Md Farukuzzaman Faruk**
 
 Alumni:
 **Jananie Jarachanthan** (Ph.D., Spring 2019 - Spring 2022), now with University of Jaffna (tenure-track), **Abeda Sultana** (Ph.D., Spring 2024), **Md Mainul Haque** (M.S.), **Pinky Sitikhu** (M.S.), **Clinton Akalazu**, **Nandakumarreddy Peddagorla**, **Sai Eshwar Reddy Gangireddy**, **Jatin Patel** 

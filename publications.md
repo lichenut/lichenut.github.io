@@ -7,9 +7,11 @@ layout: splash
 
 ## Conference Proceedings
 
++ Fupei Guo, Hao Zheng, Xiang Zhang, **Li Chen**, Yue Wang, Songyang Zhang. "DiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission," in the *Proceedings of the IEEE Global Communications Conference (GLOBECOM)*, Taipei, December 8-12, 2025.
+
 + Md Sirajul Islam, Sanjeev Panta, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training," in the *Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)*, Milano, Italy, June 3-7, 2025.
 
-+ Qiannan Zhou, Fei Xu, Linxuan Weng, Ruixing Li, Xudong Wu, **Li Chen**, Zhi Zhou, Fangming Liu. "Espresso: Cost-Efficient Large Model Training by Exploiting GPU Heterogeneity in the Cloud," in the *Proceedings of IEEE INFOCOM 2025*, London, United Kingdom, May 19-22, 2025.
++ Qiannan Zhou, Fei Xu, Linxuan Weng, Ruixing Li, Xudong Wu, **Li Chen**, Zhi Zhou, Fangming Liu. "Espresso: Cost-Efficient Large Model Training by Exploiting GPU Heterogeneity in the Cloud," in the *Proceedings of IEEE International Conference on Computer Communications (INFOCOM 2025)*, London, United Kingdom, May 19-22, 2025.
 
 + Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering," in the *Proceedings of the 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, August 12-15, 2024.
 
@@ -89,9 +91,11 @@ layout: splash
 
 ## Journal Articles
 
-+ Aodong Chen, Fei Xu, Li Han, Yuan Dong, **Li Chen**, Zhi Zhou, Fangming Liu. "Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs," in *IEEE Transactions on Computers*, accepted in October 2024.
++ Yihe Zhang, Bryce Turney, Purushottam Sigdel, Xu Yuan, Eric Rappin, Adrian L. Lago, Sytske Kimball, **Li Chen**, Paul Darby, Lu Peng, Sercan Aygun, Yazhou Tu, M. Hassan Najafi, Nian-Feng Tzeng. "Regional Weather Variable Predictions by Machine Learning with Near-Surface Observational and Atmospheric Numerical Data," in *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-21, Art no. 4701621, February 2025.
 
-+ Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters," in *IEEE Transactions on Services Computing*, August 2024.
++ Aodong Chen, Fei Xu, Li Han, Yuan Dong, **Li Chen**, Zhi Zhou, Fangming Liu. "Opara: Exploiting Operator Parallelism for Expediting DNN Inference on GPUs," in *IEEE Transactions on Computers*, vol. 74, issue 1, pp. 325-333, January 2025.
+
++ Fei Xu, Xiyue Shen, Shuohao Lin, **Li Chen**, Zhi Zhou, Fen Xiao, Fangming Liu. "Tetris: Proactive Container Scheduling for Long-Term Load Balancing in Shared Clusters," in *IEEE Transactions on Services Computing*, vol. 17, issue 5, pp. 2918-2930, September 2024.
 
 + Jie Lian, Xu Yuan, Jiadong Lou, **Li Chen**, Hao Wang, Nian-Feng Tzeng. "Room-Scale Location Trace Tracking via Continuous Acoustic Waves," in *ACM Transactions on Sensor Networks*, vol. 20, issue 3, no. 61, pp. 1-23, April 2024.
 
