@@ -9,12 +9,13 @@ layout: splash
 
 + Ragini Gupta, Naman Raina, Bo Chen, **Li Chen**, Claudiu Danilov, Josh Eckhardt, Keyshla Bernard, Klara Nahrstedt. "No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models," in the *Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BUILDSYS 25)*, Golden, CO, USA, November 19-21, 2025.
 
-
 + Fupei Guo, Hao Zheng, Xiang Zhang, **Li Chen**, Yue Wang, Songyang Zhang. "DiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission," in the *Proceedings of the IEEE Global Communications Conference (GLOBECOM)*, Taipei, December 8-12, 2025.
 
 + Md Sirajul Islam, Sanjeev Panta, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training," in the *Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)*, Milano, Italy, June 3-7, 2025.
 
 + Qiannan Zhou, Fei Xu, Linxuan Weng, Ruixing Li, Xudong Wu, **Li Chen**, Zhi Zhou, Fangming Liu. "Espresso: Cost-Efficient Large Model Training by Exploiting GPU Heterogeneity in the Cloud," in the *Proceedings of IEEE International Conference on Computer Communications (INFOCOM 2025)*, London, United Kingdom, May 19-22, 2025.
+
++ Reeti Pradhananga, Shelby Williams, Sercan Aygun, **Li Chen**, Yazhou Tu, Whitney Crow, Sathyanarayanan Aakur, Nian-Feng Tzeng. "Digital Twin-Aided Municipal Traffic Control," in SUMO Conference Proceedings, Berlin, Germany, May 12-14, 2025.
 
 + Md Sirajul Islam, Simin Javaherian, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "FedClust: Tackling Data Heterogeneity in Federated Learning through Weight-Driven Client Clustering," in the *Proceedings of the 53rd International Conference on Parallel Processing (ICPP 2024)*, Gotland, Sweden, August 12-15, 2024.
 
