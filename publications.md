@@ -7,6 +7,9 @@ layout: splash
 
 ## Conference Proceedings
 
++ Ragini Gupta, Naman Raina, Bo Chen, **Li Chen**, Claudiu Danilov, Josh Eckhardt, Keyshla Bernard, Klara Nahrstedt. "No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models," in the *Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BUILDSYS 25)*, Golden, CO, USA, November 19-21, 2025.
+
+
 + Fupei Guo, Hao Zheng, Xiang Zhang, **Li Chen**, Yue Wang, Songyang Zhang. "DiSC-Med: Diffusion-based Semantic Communications for Robust Medical Image Transmission," in the *Proceedings of the IEEE Global Communications Conference (GLOBECOM)*, Taipei, December 8-12, 2025.
 
 + Md Sirajul Islam, Sanjeev Panta, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "SEAFL: Enhancing Efficiency in Semi-Asynchronous Federated Learning through Adaptive Aggregation and Selective Training," in the *Proceedings of the 39th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2025)*, Milano, Italy, June 3-7, 2025.
