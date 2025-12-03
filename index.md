@@ -60,7 +60,7 @@ As the name suggests, we are interested in exploring important problems in distr
 Our lab members [(Gallery)](/group/):
 
 PhD:
-**Simin Javaherian**, **Md Sirajul Islam**, **[Sanjeev Panta](https://sanjeev97.github.io/)**, **N I Md Ashafuddula**, **Md Farukuzzaman Faruk**
+**Simin Javaherian**, **[Md Sirajul Islam](https://siabdullah4.github.io/)**, **[Sanjeev Panta](https://sanjeev97.github.io/)**, **N I Md Ashafuddula**, **Md Farukuzzaman Faruk**
 
 Alumni:
 **Jananie Jarachanthan** (Ph.D., Spring 2019 - Spring 2022), now with University of Jaffna (tenure-track), **Abeda Sultana** (Ph.D., Spring 2024), **Thanawat Chanikaphon**, **Md Mainul Haque** (M.S.), **Pinky Sitikhu** (M.S.), **Clinton Akalazu**, **Nandakumarreddy Peddagorla**, **Sai Eshwar Reddy Gangireddy**, **Jatin Patel** 
@@ -78,6 +78,7 @@ Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 t
 |2025.10| As part of the sabbatical leave (2025-2026 academic year), Li has been a visiting scholar at UIUC in Fall 2025, warmly hosted by Prof. Klara Nahrstedt, and gave a talk in the Systems Research Seminar Series at School of Computing and Data Science.|
 |2025.09| Sanjeev is awarded the SGA Scholarship for 2025-2026. Congratulations!|
 |2025.08| N I Md Ashaf receives the 2025 Louisiana Impact Award for our AI-based knee injury diagnosis project ([link](https://louisiana.edu/graduateschool/news/university-louisiana-lafayette-announces-round-4-research-award-recipients)). Congratulations!|
+|2025.02| Sirajul is awarded the university's Dissertation Completion Fellowship for 2025–2026. Congratulations!|
 |2024.12| Our works, Espresso and SEAFL, get accepted to IEEE INFOCOM and IPDPS 2025, respectively. Congratulations to Sirajul, Sanjeev, and other collaborators!|
 |2024.09| Sirajul is awarded the SGA Scholarship. Congratulations!|
 |2024.08| Li is promoted to Associate Professor with tenure. Heartfelt thanks to the wonderful mentors, colleagues, students, and friends along this journey!|
