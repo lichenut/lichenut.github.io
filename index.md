@@ -75,6 +75,7 @@ Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 t
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2025.12| Our paper, FedACT, gets accepted to IEEE IPDPS 2025. Congratulations to Sirajul, Ashafuddula, and other collaborators!|
 |2025.10| As part of the sabbatical leave (2025-2026 academic year), Li has been a visiting scholar at UIUC in Fall 2025, warmly hosted by Prof. Klara Nahrstedt, and gave a talk in the Systems Research Seminar Series at School of Computing and Data Science.|
 |2025.09| Sanjeev is awarded the SGA Scholarship for 2025-2026. Congratulations!|
 |2025.08| N I Md Ashaf receives the 2025 Louisiana Impact Award for our AI-based knee injury diagnosis project ([link](https://louisiana.edu/graduateschool/news/university-louisiana-lafayette-announces-round-4-research-award-recipients)). Congratulations!|
