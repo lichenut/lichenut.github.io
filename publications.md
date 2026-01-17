@@ -7,6 +7,8 @@ layout: splash
 
 ## Conference Proceedings
 
++ Sanjeev Panta, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "Revisiting the Seasonal Trend Decomposition for Enhanced Time Series Forecasting," in the *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Barcelona, Spain, May 4-8, 2026.
+
 + Md Sirajul Islam, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, **Li Chen**, Nian-Feng Tzeng, Klara Nahrstedt. "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources," in the *Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2026)*, New Orleans, USA, May 25-29, 2026.
 
 + Ragini Gupta, Naman Raina, Bo Chen, **Li Chen**, Claudiu Danilov, Josh Eckhardt, Keyshla Bernard, Klara Nahrstedt. "No One-Model-Fits-All: Uncovering Spatio-Temporal Forecasting Trade-offs with Graph Neural Networks and Foundation Models," in the *Proceedings of the 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (BUILDSYS 25)*, Golden, CO, USA, November 19-21, 2025.
@@ -96,6 +98,8 @@ layout: splash
 
 
 ## Journal Articles
+
++ Poorya Khajouie, Titli Sarkar, Krishna Rauniyar, **Li Chen**, Wu Xu, Vijay Raghavan. "SSE-TSR: An Approach to Integrate Secondary Structure Elements into Triangular Spatial Relationships for Protein Classification," in *IEEE Transactions on Computational Biology and Bioinformatics*, accepted in January 2026.
 
 + Yihe Zhang, Bryce Turney, Purushottam Sigdel, Xu Yuan, Eric Rappin, Adrian L. Lago, Sytske Kimball, **Li Chen**, Paul Darby, Lu Peng, Sercan Aygun, Yazhou Tu, M. Hassan Najafi, Nian-Feng Tzeng. "Regional Weather Variable Predictions by Machine Learning with Near-Surface Observational and Atmospheric Numerical Data," in *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-21, Art no. 4701621, February 2025.
 
