@@ -99,6 +99,8 @@ layout: splash
 
 ## Journal Articles
 
++ Abeda Sultana, Nabin Pakka, Fei Xu, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "Resource Heterogeneity-Aware and Utilization-Enhanced Scheduling for Deep Learning Clusters," in *IEEE Transactions on Computers*, accepted in March 2026.
+
 + Poorya Khajouie, Titli Sarkar, Krishna Rauniyar, **Li Chen**, Wu Xu, Vijay Raghavan. "SSE-TSR: An Approach to Integrate Secondary Structure Elements into Triangular Spatial Relationships for Protein Classification," in *IEEE Transactions on Computational Biology and Bioinformatics*, accepted in January 2026.
 
 + Yihe Zhang, Bryce Turney, Purushottam Sigdel, Xu Yuan, Eric Rappin, Adrian L. Lago, Sytske Kimball, **Li Chen**, Paul Darby, Lu Peng, Sercan Aygun, Yazhou Tu, M. Hassan Najafi, Nian-Feng Tzeng. "Regional Weather Variable Predictions by Machine Learning with Near-Surface Observational and Atmospheric Numerical Data," in *IEEE Transactions on Geoscience and Remote Sensing*, vol. 63, pp. 1-21, Art no. 4701621, February 2025.
