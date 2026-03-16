@@ -75,6 +75,7 @@ Visiting Scholar: Dr. **Jiao Li** from Xi'an Shiyou University (September 2019 t
 
 | Time  | Event &nbsp; [(Full Publication List)](/publications/) |
 |-------|-------|
+|2026.03| Our paper, M3R, gets accepted to IEEE ICME 2026. Another work gets accepted to IEEE Transactions on Computers. Congratulations to Sanjeev and other collaborators!|
 |2026.01| Our paper gets accepted to IEEE ICASSP 2026. Congratulations to Sanjeev and other collaborators!|
 |2025.12| Our paper, FedACT, gets accepted to IEEE IPDPS 2026. Congratulations to Sirajul, Ashafuddula, and other collaborators!|
 |2025.10| As part of the sabbatical leave (2025-2026 academic year), Li has been a visiting scholar at UIUC in Fall 2025, warmly hosted by Prof. Klara Nahrstedt, and gave a talk in the Systems Research Seminar Series at School of Computing and Data Science.|
