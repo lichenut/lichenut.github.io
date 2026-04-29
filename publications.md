@@ -9,6 +9,8 @@ layout: splash
 
 + Sanjeev Panta, Rhett M Morvant, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "M3R: Localized Rainfall Nowcasting with Meteorology-Informed MultiModal Attention," in the *Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)*, Bangkok, Thailand, July 5-9, 2026.
 
++ Lingxuan Weng, Fei Xu, Xudong Wu, Xinyi Zhang, **Li Chen**, Zhi Zhou. "Cappuccino: Cost-Efficient Heterogeneous LoRA Fine-tuning via Replica-Level Orchestration," in the *Proceedings of the IEEE International Conference on Distributed Computing Systems (ICDCS)*, Seoul, South Korea, June 22-25, 2026.
+
 + Sanjeev Panta, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "Revisiting the Seasonal Trend Decomposition for Enhanced Time Series Forecasting," in the *Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)*, Barcelona, Spain, May 4-8, 2026.
 
 + Md Sirajul Islam, Isabelle G Chapman, N I Md Ashafuddula, Xu Yuan, **Li Chen**, Nian-Feng Tzeng, Klara Nahrstedt. "FedACT: Concurrent Federated Intelligence across Heterogeneous Data Sources," in the *Proceedings of the 40th IEEE International Parallel and Distributed Processing Symposium (IPDPS 2026)*, New Orleans, USA, May 25-29, 2026.
