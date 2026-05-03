@@ -7,6 +7,8 @@ layout: splash
 
 ## Conference Proceedings
 
++ Jiadong Lou, Wenxin Rong, **Li Chen**, Xing Gao, Rui Zhang, Xu Yuan. "DataGuard: A Non-intrusive Dataset Auditing Framework via Differential Information Forensics," in the *Proceedings of the 43rd International Conference on Machine Learning (ICML)*, Seoul, South Korea, July 6-11, 2026.
+
 + Sanjeev Panta, Rhett M Morvant, Xu Yuan, **Li Chen**, Nian-Feng Tzeng. "M3R: Localized Rainfall Nowcasting with Meteorology-Informed MultiModal Attention," in the *Proceedings of the IEEE International Conference on Multimedia and Expo (ICME)*, Bangkok, Thailand, July 5-9, 2026.
 
 + Lingxuan Weng, Fei Xu, Xudong Wu, Xinyi Zhang, **Li Chen**, Zhi Zhou. "Cappuccino: Cost-Efficient Heterogeneous LoRA Fine-tuning via Replica-Level Orchestration," in the *Proceedings of the IEEE International Conference on Distributed Computing Systems (ICDCS)*, Seoul, South Korea, June 22-25, 2026.
